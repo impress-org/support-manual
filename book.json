@@ -1,12 +1,6 @@
 {
   "gitbook": "2.5.2",
   "structure": {
-    "summary": "/docs/SUMMARY.md"
-  },
-  "sections": [
-    {
-      "type": "normal",
-      "content": "<h1>My Awesome book</h1>"
-    }
-  ]
+    "summary": "SUMMARY.md"
+  }
 }
