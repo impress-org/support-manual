@@ -1,5 +1,5 @@
 
-# Table of content
+# Table of Contents
 
 1. [Duties of a Support Technician](https://givewp.gitbook.io/support-manual/1.-duties-of-a-support-technician)
 2. [Daily Routine](https://givewp.gitbook.io/support-manual/2.-daily-routine)
