@@ -1,8 +1,7 @@
 
 # Table of Contents
 
-* [1. Duties of a Support Technician](duties-of-a-support-technician)
-    * [Overview](duties-of-a-support-technician/Overview.md)
+* [1. Duties of a Support Technician](duties-of-a-support-technicians.md)
 * [2. Daily Routine](daily-routine)
     * [Overview](daily-routine/Overview.md)
 * [3. Principles of Providing Excellent Support](principles-of-providing-excellent-support)
