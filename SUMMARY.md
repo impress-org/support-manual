@@ -14,6 +14,7 @@
     * [Knowing the Product](principles-of-providing-excellent-support/knowing-the-product.md)
     * [Providing an Effective First Response](principles-of-providing-excellent-support/providing-effective-first-response.md)
     * [Getting to Resolution](principles-of-providing-excellent-support/getting-to-resolution.md)
+    * [Communicating Effectively (aka the "Tone Guide")](principles-of-providing-excellent-support/tone-guide.md)
 4. [Communicating as a Team](communicating-as-a-team)
     * [Overview](communicating-as-a-team/Overview.md)
 5. [Documentation](documentation)
