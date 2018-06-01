@@ -9,17 +9,17 @@ Since our first response is designed to be thorough, many times it will resolve 
 
 Also, during that time, ensure that any cc'd emails were correctly added to the original reply, and if not, reply with an apology for not cc’ing correctly.
 ## Review waiting-on-fix
-Tickets that have identified issues and bugs are tagged as waiting-on-fix in Help Scout, and left as pending. During #LogoutHabits time, review the associated GitHub issue (or add the github issue to the top of the ticket in a note) and respond accordingly. 
-## Issue is resolved
+Tickets that have identified issues and bugs are tagged as waiting-on-fix in Help Scout, and left as pending. During #QHH time, review the associated GitHub issue (or add the github issue to the top of the ticket in a note) and respond accordingly. 
+### Issue is resolved
 Reply to the customer with either the version of the add-on or Give core that the issue is fixed in, and close the ticket, after removing the waiting-on-fix tag. 
 
-Issue is not resolved, but actively being worked on
+### Issue is not resolved, but actively being worked on
 
 It is meaningful for our customers to hear back that “we’ve not forgotten about this issue, and the dev team is currently working on it.”
 
 Be careful not to over-promise on a release timeline. 
 
-Issue is not resolved, and has seen no movement
+### Issue is not resolved, and has seen no movement
 
 If we check and discover an issue has not received any attention based on the github issue, we ping the Head of Support or the Senior Support technician to add the appropriate label on github, at their discretion. 
 
