@@ -17,5 +17,8 @@
     * [Communicating Effectively (aka the "Tone Guide")](principles-of-providing-excellent-support/tone-guide.md)
 4. [Communicating as a Team](communicating-as-a-team)
     * [Overview](communicating-as-a-team/Overview.md)
+    * [Team Roles](communicating-as-a-team/team-roles.md)
+    * [Using Slack](communicating-as-a-team/using-slack.md)
+    * [Weekly Meetings](communicating-as-a-team/weekly-meetings.md)
 5. [Documentation](documentation)
     * [Overview](documentation/Overview.md)
