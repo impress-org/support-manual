@@ -1,5 +1,4 @@
 
-# Duties of Support Technicians Overview
 Each of these areas are further explained in this document. This page is a high-level pass at each area of support technician duties. 
 
 ## Solving User Issues
