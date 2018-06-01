@@ -1,0 +1,5 @@
+div#root div[data-slate-editor="true"] p:first-child span {
+    font-size: 115% !important;
+    color: #999;
+    font-style: italic;
+}
