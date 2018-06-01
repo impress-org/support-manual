@@ -2,7 +2,7 @@
 description: 'This is an overview of our Daily Routine for Support Techs at GiveWP'
 ---
 
-# Daily Routine Overview
+## Daily Routine Overview
 
 Intro paragraph and overview:
 
