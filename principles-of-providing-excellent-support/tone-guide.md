@@ -78,7 +78,7 @@ For example, how you set the tone with your first sentence in your first reply m
 * **Effective Opener**  
 “It’s so great to help raise awareness for Autism and special needs children. I’ve seen this technical issue you’re experiencing before, and look forward to getting you back to doing what matters: helping the kids.” 
 
-{% hint style="warning" %}**NOTE**  
- Don’t fake it. If you are not excited about their cause or charity, skip straight to “You’ve come to the right place: we’ll get this technical issue sorted for you in no time.” Lead with being welcoming, even if you can’t lead with excitement for their cause. 
+{% hint style="warning" %} **NOTE**  
+ Don’t fake it. If you are not excited about their cause or charity, skip straight to “You’ve come to the right place: we’ll get this technical issue sorted for you in no time.” Lead with being welcoming, even if you can’t lead with excitement for their cause. {% endhint %}
  
 When people go to tech support, they brace themselves for being made to feel stupid. Our job is to welcome them, and explain that we’ve been here before. 
