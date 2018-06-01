@@ -1,6 +1,9 @@
 ---
 description: 'This is an overview of our Daily Routine for Support Techs at GiveWP'
 ---
+
+# Daily Routine Overview
+
 Intro paragraph and overview:
 
 * Login to Slack and announce that you’re starting your day
