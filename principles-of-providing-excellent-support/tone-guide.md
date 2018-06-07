@@ -31,7 +31,7 @@ We do not respond to their frustration with a defense of our actions, our team, 
 
 Instead, we seek to find the source of their frustration, and resolve it. 
 
-For example; let's say a customer replies to you saying “Your team is incompetent”.
+For example, let's say a customer replies to you saying “Your team is incompetent”.
 
 * **Ineffective response:**  
 “Actually we’re quite competent. I have a degree in _____, have spent the last __ years in customer support, and thousands of people are thrilled to use our products daily”
@@ -55,9 +55,17 @@ For example; let's say a user had a Javascript error that was making things diff
 * **Ineffective Response:**  
 “The problem is a script loading in the header that’s throwing a jQuery error preventing the rest of the form from loading”
 * **Effective Response**  
-“In troubleshooting it on your live site, I see a file that is loaded by  _____ plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I’d recommend confirming and resolving the issue…”
+“A file that is loaded by  _____ plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I recommend confirming and resolving the issue…”
 
-It’s helpful to imagine scenarios where you are in similar situations. One example might be the doctor’s office. If the doctor explaining a health condition says “The issue here is acute craniosynostosis of the posterior temporal suture” They may have proven that they know what they are talking about, but it would be way more useful for them to say “You know how the skull has gaps (soft spots) in it when you are born, that you can feel? The issue for your child is that one of those gaps, specifically the one on the back of her head, closed prematurely. Here’s how we go about fixing that...”
+It’s helpful to imagine scenarios where you are in similar situations. One example is the doctor’s office. Imagine going to a medical doctor for an issue with your daughter's development.
+
+* **Ineffective Response:**  
+“The issue here is acute craniosynostosis of the posterior temporal suture” 
+
+This response, littered with medical jargon, serves no purpose other than to demonstrate to the listener that the speaker has a large vocabulary, and possibly a firm grasp on a medical condition. In a strange twist, the more technical language actually proves less about the competence of the doctor than simple and understandable language would.
+
+* **Effective Response:**  
+“You know how the skull has gaps (soft spots) in it when you are born, that you can feel? The issue for your child is that one of those gaps, specifically one of the ones on the back of her head, closed prematurely. Here’s how we go about fixing that...”
 
 If you can’t explain it to a ten-year-old, go back and rewrite it. 
 
@@ -68,7 +76,7 @@ If you can’t explain it to a ten-year-old, go back and rewrite it.
 
 Thankfulness, especially as an opening, is functionally white noise to the customer. Like an automated greeting that says “Your call is important to us…” the line “Thanks for contacting support” is ignored at best, or ridiculed at worst.
 
-Instead, we are excited and welcoming. Taking the few extra seconds to find some common ground with a customer and personalize the welcome is a difference between a customer being on the defensive (because they are prepared to meet the Policy Enforcer) and being delighted that they have found their Wise Friend to help them win the day.
+Instead, we are excited and welcoming. Taking the few extra seconds to find some common ground with a customer and personalize the welcome is a difference between a customer being on the defensive (because they are prepared to meet the policy enforcer) and being delighted that they have found their wise friend to help them win the day.
 
 For example, how you set the tone with your first sentence in your first reply makes a big impact. 
 
