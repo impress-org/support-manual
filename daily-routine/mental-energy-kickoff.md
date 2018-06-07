@@ -42,8 +42,8 @@ This type of activity improves your skills as a support technician in several va
 
 Part of our daily routine is open and consistent communication about what we're doing throughout the day. That includes the "Mental Energy Kick-off" time. Once you're done with this time, update the team with a quick takeaway from the time you spent and what you're moving into next. Here's some examples:
 
-* @here Just wrapped up reading a great article on the HelpScout blog about pain-points as a Support technician (here's the link: example.com). Moving now into Unassigned.
-* @here Just finished writing some docs for Give Stripe. Moving to my Assigned since Unassigned is relatively under control already.
-* @here Just learned a ton on the WordPress Code Reference about oEmbeds -- wow! Moving to Low-Hanging Fruit in the Unassigned now.
+* `@here` Just wrapped up reading a great article on the HelpScout blog about pain-points as a Support technician (here's the link: example.com). Moving now into Unassigned.
+* `@here` Just finished writing some docs for Give Stripe. Moving to my Assigned since Unassigned is relatively under control already.
+* `@here` Just learned a ton on the WordPress Code Reference about oEmbeds -- wow! Moving to Low-Hanging Fruit in the Unassigned now.
 
 This communication benefits the team by showing them what you're learning and letting them know that activity is happening in Unassigned. 
