@@ -55,7 +55,7 @@ For example; let's say a user had a Javascript error that was making things diff
 * **Ineffective Response:**  
 “The problem is a script loading in the header that’s throwing a jQuery error preventing the rest of the form from loading”
 * **Effective Response**  
-“In troubleshooting it on your live site, I see a file that is loaded by  _____ plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I’d recommend confirming and resolving the issue…”
+“A file that is loaded by  _____ plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I recommend confirming and resolving the issue…”
 
 It’s helpful to imagine scenarios where you are in similar situations. One example is the doctor’s office. Imagine going to a medical doctor for an issue with your daughter's development.
 

@@ -10,7 +10,7 @@ The goal of the first response is to get to resolution as quickly as possible. T
 
 Upon submitting a support ticket, our customers receive notice that we will respond within 2-4 business hours. Business hours are from 5AM to 5PM Pacific time. During these hours, unless otherwise instructed by the Head of Support or Senior Support Technician, support techs should be aware of and answering tickets in the unassigned box.
 
-The less time a customer waits for a first response, the better their impression of us as a company and a product.
+{% hint style="success" %} The less time a customer waits for a first response, the better their impression of us as a company and a product.{% endhint %}
 
 ## Thorough
 
