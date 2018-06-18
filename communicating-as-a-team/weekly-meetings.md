@@ -5,13 +5,13 @@ As a distributed team, we prioritize getting together via video chat once per we
 ## Team Alignment
 When we meet, it's a time to make sure all team members, regardless of [team role](team-roles.md), are on the same page as far as how the team is doing. The Head of Support briefly goes through the metrics from the previous week, with respect to how they apply to the support team. 
 
-![Sample screen shot from a weekly meeting, showcasing a graph. In the sample data is 'Sales +/-: 14% Decrease, New Tickets +/-: 0% increase, Tickets/sales: 82%, Productivity: 1st reply 2.5 hours, Happiness: 100 % from 10% of customers, Free Support: 25 interaction with 1 5-star and 87% resolved, Capacity 98%'](../assets/report-sample-group.png)
+![Sample weekly meeting team report, showcasing a graph. In the sample data is 'Sales +/-: 14% Decrease, New Tickets +/-: 0% increase, Tickets/sales: 82%, Productivity: 1st reply 2.5 hours, Happiness: 100 % from 10% of customers, Free Support: 25 interaction with 1 5-star and 87% resolved, Capacity 98%'](../assets/report-sample-group.png)
 
 If there are any anomalies on the reports in terms of week-over-week change, the team discusses them. 
 
 After the team overview, the Head of Support guides the team through individual metrics from the previous week. 
 
-![sample screen shot of individual support team member metrics. The Sample technician is named 'Techy McTecherton' and the following data is shown: 'Customers Helped: 49/184, 27%' 'Replies: 8m 18s reply time, 3 hour 0 minute 1st response time' '37 closed tickets, 63% closed, 3.9 replies to resolve, 52 hour resolution time' 'Happiness: 100' ](../assets/report-sample-individual.png)
+![Sample report of individual support team member metrics. The Sample technician is named 'Techy McTecherton' and the following data is shown: 'Customers Helped: 49/184, 27%' 'Replies: 8m 18s reply time, 3 hour 0 minute 1st response time' '37 closed tickets, 63% closed, 3.9 replies to resolve, 52 hour resolution time' 'Happiness: 100' ](../assets/report-sample-individual.png)
 
 This portion of the meeting is not meant to be negative, or finger-pointing, but instead corrective and encouraging. When something is going right for a tech, or there is significant improvement, there's often discussion surrounding what changed or enabled that difference. 
 
