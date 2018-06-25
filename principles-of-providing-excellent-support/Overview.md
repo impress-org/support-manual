@@ -1,6 +1,7 @@
 
 ## Principles of Providing Excellent Support Overview
 We solve customer problems. To do that, we must be (in no particular order)
+
 1. [Capable of getting to resolution](getting-to-resolution.md)
 2. [Knowledgeable about the product](knowing-the-product.md)
 3. [Able to set the correct tone for the interaction](tone-guide.md). 
