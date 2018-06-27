@@ -34,10 +34,10 @@ Instead, we seek to find the source of their frustration, and resolve it.
 For example, let's say a customer replies to you saying “Your team is incompetent”.
 
 * **Ineffective response:**  
-“Actually we’re quite competent. I have a degree in _____, have spent the last __ years in customer support, and thousands of people are thrilled to use our products daily”
+“Actually we’re quite competent. I have a degree in `Something`, have spent the last `however many` years in customer support, and thousands of people are thrilled to use our products daily”
  
 * **Effective Response**  
-“I’m happy to get to the bottom of this with you. Other users who have had ____ problem resolved it like ____”
+“I’m happy to get to the bottom of this with you. Other users who have had this problem resolved it following these steps:”
 
 Functionally, we simply ignore the insult, and then prove them wrong by resolving the problem. 
 
@@ -55,7 +55,7 @@ For example; let's say a user had a Javascript error that was making things diff
 * **Ineffective Response:**  
 “The problem is a script loading in the header that’s throwing a jQuery error preventing the rest of the form from loading”
 * **Effective Response**  
-“A file that is loaded by  _____ plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I recommend confirming and resolving the issue…”
+“A file that is loaded by `Example` plugin is not playing nicely with one of our files, and that conflict is preventing the form from loading correctly. Here’s how I recommend confirming and resolving the issue…”
 
 It’s helpful to imagine scenarios where you are in similar situations. One example is the doctor’s office. Imagine going to a medical doctor for an issue with your daughter's development.
 
