@@ -23,3 +23,6 @@
     * [Weekly Meetings](communicating-as-a-team/weekly-meetings.md)
 5. [Documentation](documentation)
     * [Overview](documentation/Overview.md)
+    * [Mechanics of our Online Docs](documentation/mechanics.md)
+    * [Managing Tasks for Docs](documentation/management.md)
+    * [Writing Online Docs](documentation/writing-docs.md)
