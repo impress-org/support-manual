@@ -17,7 +17,7 @@ This portion of the meeting is not meant to be negative, or finger-pointing, but
 
 ## Course-Correction
 
-Far from being a top-down dictation of the facts and direction of the company or support team, the weekly meeting is specifically designed to surface customer issues and trends. Since the support technicians are the front-line ambassadors between custer and product team (and vice versa), the weekly meeting is an opportunity to allow support techs to voice the concerns of the customer, to discuss among the team how to deal with the issues customers are seeing, and to give the Head of Support insight into how to escalate issues to the product team.
+Far from being a top-down dictation of the facts and direction of the company or support team, the weekly meeting is specifically designed to surface customer issues and trends. Since the support technicians are the front-line ambassadors between customer and product team (and vice versa), the weekly meeting is an opportunity to allow support techs to voice the concerns of the customer, to discuss among the team how to deal with the issues customers are seeing, and to give the Head of Support insight into how to escalate issues to the product team.
 
 It's also a chance to see how the team is working together, and in what way processes can be streamlined and fixed going forward.
 
