@@ -22,6 +22,5 @@
     * [Using Slack](communicating-as-a-team/using-slack.md)
     * [Weekly Meetings](communicating-as-a-team/weekly-meetings.md)
 5. [Documentation](documentation)
-    * [Overview](documentation/Overview.md)
     * [Managing Tasks for Docs](documentation/management.md) 
     * [Writing Online Docs](documentation/writing-docs.md)

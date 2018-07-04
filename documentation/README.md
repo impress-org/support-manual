@@ -1,3 +1,7 @@
+---
+description: 'Documentation Overview -- Documentation is a necessary part of the plugin user experience. While we seek to make our products as intuitive and understandable as possible within the interface of the plugin itself, users will occasionally still need longer, more detailed explanations.'
+---
+
 # Documentation Overview
 Documentation is a necessary part of the plugin user experience. While we seek to make our products as intuitive and understandable as possible within the interface of the plugin itself, users will occasionally still need longer, more detailed explanations.
 
