@@ -21,6 +21,6 @@
     * [Team Roles](communicating-as-a-team/team-roles.md)
     * [Using Slack](communicating-as-a-team/using-slack.md)
     * [Weekly Meetings](communicating-as-a-team/weekly-meetings.md)
-5. [Documentation](documentation)
+5. [Documentation](documentation/README.md)
     * [Managing Tasks for Docs](documentation/management.md) 
     * [Writing Online Docs](documentation/writing-docs.md)
