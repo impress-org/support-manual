@@ -1,6 +1,7 @@
 # Queue Health Habits (or `#QHH`)
 
 A healthy queue is one with the following characteristics:
+
 1. No ticket is still pending or active after the issue is resolved.
 2. No active ticket is left for more than 1 business day without a response.
 2. No pending ticket is "left hanging" waiting on a response to an issue.
