@@ -7,7 +7,7 @@ We are our customer’s wise friend, not a corporate policy enforcer or policy d
 * **E**ducational, not Hauty or Overly Technical
 * **W**elcoming, not Thankful
 
-The best support technicians know their biases and tendencies. For example, if a technician is prone to argument, they should take special care to make things results-oriented. It's helpful to do a postmortem of all negative rating interactions to see which part of the tone guide broke down in the process. Almost all negative ratings can be traced to a breakdown of one of the four points in CREW. 
+The best support technicians know their biases and tendencies. For example, if a technician is prone to argument, they should take special care to make things results-oriented. It's helpful to do a postmortem of all negative rating interactions to see which part of the tone guide broke down in the process. Almost all negative ratings (even the unfair ones where they rate the technician negatively because of a lack of feature) can be traced to a breakdown of one of the four points in CREW. 
 
 {% hint style="info" %} **Pro Tip**  
 _Slow Down_. There's no substitute for proofreading when it comes to tone. It's a best practice to take the extra 30 seconds to re-read drafts checking for each of these items before sending the message, asking the question "is this CREW?" and modifying the message before sending it. {% endhint %}
