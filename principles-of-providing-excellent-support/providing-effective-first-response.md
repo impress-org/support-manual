@@ -28,7 +28,7 @@ Customers are never a bother, and being able to help them with issues is a pleas
 
 When appropriate, light-hearted humor can work well. Note: If a customer is having a major issue (donations stopped on the live site, and they are frustrated, for example) this is not the appropriate time for humor. 
 
-Talk to the customer as you would a friend. More on this in the Tone Guide, but the following phrases work well:
+Talk to the customer as you would a friend. More on this in the [Tone Guide](tone-guide.md), but the following phrases work well:
 * “We’ve got you covered!”
 * “Your site looks great!”
 * “Way to go!”
@@ -38,3 +38,4 @@ Talk to the customer as you would a friend. More on this in the Tone Guide, but 
 Related to being friendly, we strive for empathy—putting ourselves into the shoes of our customers—in order to feel what they are feeling. A frustrated customer needs a helping hand up, a happy customer needs encouragement and applause, a misinformed customer needs kind information. 
 
 We don’t waste time defending ourselves: we solve problems. The first response should set the tone that the customer is heard, valued, and a priority for us. 
+
