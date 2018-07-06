@@ -32,7 +32,7 @@ Among other skills:
 - Given time, a support technician should be able to write simple snippets to utilize filters in Give core.
 
 ## Give Add-on Knowledge
-Give add-ons are constantly being added, and updated. Support Technicians must stay ahead of that development by constantly monitoring new features, new functionality, and new issues and incompatibilities. 
+Give add-ons are constantly being added and updated. Support Technicians must stay ahead of that development by constantly monitoring new features, new functionality, and new issues and incompatibilities. 
 
 By virtue of our role and the time spent in tickets, much of the add-on functionality will be learned out of necessity, but it is critical that support technicians use both tickets and new development to spur their knowledge of add-ons. 
 
