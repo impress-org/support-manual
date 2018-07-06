@@ -7,7 +7,7 @@ A healthy queue is one with the following characteristics:
 2. No pending ticket is "left hanging" waiting on a response to an issue.
 3. No ticket is untagged.
 
-Because all of the above scenarios are difficult to maintain at scale, it's imperative that support technicians block out time to tend to the three aspects #QHH.
+Because all of the above scenarios are difficult to maintain at scale, it's imperative that support technicians block out time to tend to the three aspects of #QHH.
 
 That's done in the following ways:
 
