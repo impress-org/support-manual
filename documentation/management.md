@@ -27,11 +27,11 @@ The "type" for all Docs issues is always "web-doc"; whereas the "scope" should f
 
 An example of a Github issue with a proper prefix is:
 
-`web-doc(woocommerce): Add new doc about customizing the Upsell via template files`
+`web-doc(admin-email): update Email Notifications doc with new tags`
 
-From this we know that a Documentation article related to our WooCommerce add-on must be created. 
+From this we know that a Documentation article related to the admin email setting needs to be updated. 
 
-The Give Docs repository has an issue template that is very detailed, but may change from time to time as well. But it is in the team's best interest that everyone follows the issue template closely.
+The Give Docs repository has an issue template that is very detailed and helpful, here. It is in the team's best interest that everyone follows the issue template closely, so that documentation can get high-quality attention each day.
 
 ### Assigning Issues
 
@@ -50,9 +50,9 @@ If none of the issues that are assigned to you are in a Milestone, the prioritiz
 
 ## Reporting on Your Tasks
 
-All Give-Docs Github activity is sent directly to our team Slack channel (#documentation). Therefore, communicating what you have worked on is best done on the Github issue itself -- this prevents duplicate work of reporting additionally in Slack. 
+All Give-Docs Github activity is sent directly to our team Slack channel (#documentation). Therefore, communicating what you have worked on is best done on the Github issue itself, preventing duplicate work of reporting additionally in Slack. 
 
-It is best to comment on whatever issue you work on daily. This helps Support Leadership be informed of the work you have done regardless of whether there something to show for it yet or not. Some docs issues might require research or gaining new experience with an add-on or feature you are not very familiar with. 
+It is best to comment on whatever issue you work on daily. This helps Support Leadership be informed of the work you have done regardless of whether there something to show for it yet or not. Some docs issues might require research or gaining new experience with an add-on or feature. 
 
 If you do not have any documentation issues assigned to you, that is a good time to:
 

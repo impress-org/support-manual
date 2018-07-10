@@ -9,8 +9,8 @@ This article walks through how we approach writing online documentation for our 
 There are several important goals for every documentation article that we write. 
 
 1. Provide detail for all features of the product
-2. Answer any questions the reader might have related to the feature in question
-3. Provide context to how this feature relates to other features of the product or add-ons of the product
+2. Anticipate and answer any questions the reader might have related to the feature in question
+3. Provide context to how this feature relates to other features of the product or add-ons
 4. Expand the content of our website to further encourage search engines to make our website the authority on all technical matters related to the product
 
 
