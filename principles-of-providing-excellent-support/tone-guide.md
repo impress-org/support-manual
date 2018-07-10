@@ -4,7 +4,7 @@ We are our customer’s wise friend, not a corporate policy enforcer or policy d
 
 * **C**onfident, not Apologetic
 * **R**esults Oriented, not Argumentative
-* **E**ducational, not Hauty or Overly Technical
+* **E**ducational, not Haughty or Overly Technical
 * **W**elcoming, not Thankful
 
 The best support technicians know their biases and tendencies. For example, if a technician is prone to argument, they should take special care to make things results-oriented. It's helpful to do a postmortem of all negative rating interactions to see which part of the tone guide broke down in the process. Almost all negative ratings (even the unfair ones where they rate the technician negatively because of a lack of feature) can be traced to a breakdown of one of the four points in CREW. 
