@@ -1,6 +1,6 @@
 # Communicating Effectively (aka the “Tone Guide”)
 
-We are our customer’s wise friend, not a corporate policy enforcer or policy defender. We want our customers to succeed, and we are the guide to help them when they need it. Our customer is James Bond, we are Q: equipping them with the tools, resources, and knowledge to win the day. To that end, our tone is marked by these qualities (with the helpful acronym CREW):
+We are our customer’s wise friend, not a corporate policy enforcer or policy defender. We want our customers to succeed, and we are the guide to help them when they need it. Our customer is James Bond, we are Q: equipping them with the tools, resources, and knowledge to win the day<sup>*</sup>. To that end, our tone is marked by these qualities (with the helpful acronym CREW):
 
 * **C**onfident, not Apologetic
 * **R**esults Oriented, not Argumentative
@@ -95,3 +95,5 @@ For example, how you set the tone with your first sentence in your first reply m
  Don’t fake it. If you are not excited about their cause or charity, skip straight to “You’ve come to the right place: we’ll get this technical issue sorted for you in no time.” Lead with being welcoming, even if you can’t lead with excitement for their cause. {% endhint %}
  
 When people go to tech support, they brace themselves for being made to feel stupid. Our job is to welcome them, and explain that we’ve been here before. 
+
+<sup>*</sup>hat-tip Donald Miller's [StoryBrand](http://storybrand.com) for the "make the customer the hero" insight.
