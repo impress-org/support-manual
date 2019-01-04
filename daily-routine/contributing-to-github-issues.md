@@ -1,23 +1,14 @@
-One of the biggest pain points for customers in any sort of support interaction is the feeling of being made to jump through hoops or repeat themselves because they didn't use the correct channel. 
+# Creating and Contributing to Github Issues
+As a part of our role of customer ambassador, when we find a problem, bug, or area for improvement in the plugin or an add-on, we escalate it to the product team in the form of an issue on GitHub. This is done during ticket time, as a part of the flow. 
 
-We call this hoop-jumping and repetition "friction" and it is the enemy of providing excellent support. The different types of friction generally fall into three types:
+Any time we create an issue on GitHub, we notate the ticket with the GitHub URL and the GitHub issue with the Help Scout URL.
 
-1. People with urgent issues who need to be helped when a support technician is leaving for the day.
-1. Customers who ask for something other than technical support in the Support inbox.
-1. Customers who have answers that need escalation to the Head of Support.
+The following are all valid reasons to create an issue:
+## Bugs
+If in the course of replicating customer issues we find a bug that is replicable in a separate environment, we should immediately create an issue on GitHub in the appropriate repository. Keep in mind that issues created in public repositories are visible by anyone, and should use discretion when it comes to discussing internal policy or issues. 
 
-##Using the Urgent Tag
-When a customer's live site is actively not taking donations (after a period of having taken them) this is an urgent issue. All replies on urgent-tagged tickets should be placed back in the "Unassigned" Help Scout box so that they receive attention as soon as possible. 
-
-This requires some discretion on the part of us as support technicians: just because an issue is urgent to a customer does not make it an urgent-tagged ticket.
-
-Even if the person contacting us is on a tight deadline and has tremendous urgency, it does not fit the criteria for the urgent tag unless the site was previously accepting donations and now is no longer. 
-
-By this definition, a site that is not live yet or has never taken donations before can't have an urgent-tagged issue. 
-
-###Responding to Urgent tagged tickets
-When a ticket is marked as urgent (according to the above definition) and left in the unassigned box. all technicians on the unassigned box are to prioritize it. 
-
-That doesn't necessarily mean that they should be the one to answer, but that they should alert the technician who tagged it to answer when there is a response from the customer. 
-
-If the original technician is out for the day at the time of the customer response, the remaining technician(s) should take over the ticket, and respond. 
+In creating the issue, we take care to ensure that the developer tasked with replicating the problem has all necessary information to quickly replicate the problem, and find a solution. It is the job of the support technician to help the developer anticipate how fixing the bug could impact other use-cases of the plugin or add-on. We know (often with more clarity than the development team) how our users are using the plugins, and should give them as much context as possible.
+## Feature requests
+When a customer requests a new feature, we listen. As support technicians, it is not our job to weigh the validity or feasibility of a feature request, so much as to keep a record of how many customers are asking for certain features. For the purposes of creating issues for feature requests, all of those should be routed through the senior support technicians or the head of support, for simplicity. 
+## Clarification based on user insight
+We highly value customer insight into issues of user interface, interacting with other plugins, themes, or the greater WordPress ecosystem, etc. An example of an issue to escalate to the product team would be clarifying the language of an in-app documentation string based on user feedback.
