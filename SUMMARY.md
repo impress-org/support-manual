@@ -10,6 +10,7 @@
     * [`#QueueHealthHabits`](daily-routine/queue-health-habits.md)
     * [Decompress Time](daily-routine/decompress-time.md)
 3. [Principles of Providing Excellent Support](principles-of-providing-excellent-support/README.md)
+    * [Frictionless Support](principles-of-providing-excellent-support/frictionless-support.md)
     * [Knowing the Product](principles-of-providing-excellent-support/knowing-the-product.md)
     * [Providing an Effective First Response](principles-of-providing-excellent-support/providing-effective-first-response.md)
     * [Getting to Resolution](principles-of-providing-excellent-support/getting-to-resolution.md)
