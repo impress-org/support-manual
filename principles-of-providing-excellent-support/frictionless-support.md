@@ -2,17 +2,17 @@
 
 One of the biggest pain points for customers in any sort of support interaction is the feeling of being made to jump through hoops or repeat themselves because they didn't use the correct channel. 
 
-We call this hoop-jumping and repetition "friction" and it is the enemy of providing excellent support. The different types of friction generally fall into three types:
+We call this "friction" and it is the enemy of providing excellent support. The different types of friction generally fall into three types:
 
-1. People with urgent issues who need to be helped when a support technician is leaving for the day.
+1. Customers with urgent issues who need immediate attention from any technicians who are still working.
 1. Customers who ask for something other than technical support in the Support inbox.
-1. Customers who have answers that need escalation to the Head of Support.
+1. Customers who require answers that only the Head of Support or other Departments (like Customer Success) can provide.
 
-Frictionless support is the mechanics of removing the friction and moving every customer to resolution as seamlessly as possible. 
+{% hint style="info" %}Frictionless support is the mechanics of removing the friction and moving every customer to resolution as seamlessly as possible. {% endhint %}
 
 ## Using the Urgent Tag
 
-When a customer's live site is actively not taking donations (after a period of having taken them) this is an urgent issue. The customer needs actionable support, and to be treated with urgency and accuracy. 
+When the problem a customer is encountering is preventing them from accepting live donations (after a period of having successfully accepted them), this is an urgent issue. The customer needs actionable support, and to be treated with urgency and accuracy. 
 
 The mechanical way we handle this is via the Urgent tag in Help Scout. All replies on urgent-tagged tickets should be placed back in the "Unassigned" Help Scout box so that they receive attention as soon as possible. 
 
@@ -57,16 +57,16 @@ It's also appropriate in the interest of frictionless support for technicians to
 
 Valid reasons for assigning a ticket to another technician (with their knowledge and permission) include:
 - the technician has more experience with a certain payment gateway, add-on, or functionality. 
-- the technician has a local install better suited for testing and reproducing the customer's issue.
+- the technician has a server or local environment better suited for testing and reproducing the customer's issue.
 - the technician is in a time zone better suited for helping the customer in need of more "real-time" assistance.
 
 The key to assigning things to other technicians is that it requires a conversation via Slack (in the public support channel) where both technicians agree to it. 
 
 ## Involving other Departments
 
-Often in the course of responding to a technical issue, the customer will have a question about their account at GiveWP, or requesting a Demo from the Customer Success team, or managing licenses (for example). 
+Customers will occasionally have questions about their account at GiveWP, or they might want a live Demo, they might have problems with managing their licenses, or (worst case) they might need a refund. 
 
-In order to keep things frictionless, the best thing we as Support Technicians can do is to loop in the appropriate department ourselves, and handle as much as possible for the customer. 
+In order to keep the customer experience frictionless, Support Technicians should reassign tickets to the appropriate person or department immediately with a note that helps focus what action should be taken. This way the next interaction the customer receives is actionable, and not a reassignment update.
 
 If the question is solely about a non-technical issue, we move the conversation to the customer success inbox in Help Scout (leaving it assigned to anyone and active) without answering. 
 
@@ -80,6 +80,4 @@ Another case for involving another department is when we identify a good candida
 
 Friction in customer interactions is a dehumanizing thing, causing customers to feel like livestock being herded into line, or a number on the ticket queue to be handled. 
 
-When we take the extra few minutes to treat customers how we'd want to be treated by removing friction and driving quickly toward resolution, we delight them and build loyalty. 
-
-It also creates loyalty the other direction. When we treat customers like we value them, we actually do begin to value them more. 
+{% hint style="success" %}When we take the extra few minutes to treat customers how we'd want to be treated by removing friction and driving quickly toward resolution, we delight them and build loyalty. {% endhint %}
