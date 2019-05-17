@@ -44,6 +44,24 @@ If a Support Technician finds themselves stuck on what else to do, we escalate t
 
 Once the ticket has been escalated, **we leave it assigned to the original technician** unless otherwise instructed. This allows for the technician to monitor whether the Senior Support Technician has gotten to it, and if they haven't, to either remind them or notify the customer before logging off for the day. 
 
+Here's our escalation note template:
+> I need assistance with this ticket. Here's all the necessary information.
+>
+> 1. Rate the Urgency
+{1 == not urgent, just need help; 2 == Some urgency from the customer, but I can do it with some help; 3 == Urgency from Customer and I don't know how to resolve this for them at all.}
+>
+> 2. Quick Summary of the Problem
+{summarize the users problem succinctly}
+>
+> 3. How Did I Verify the Problem? 
+{Did you replicate it outside the user's site? (provide steps); Saw it on the user's site? (provide steps), Have additional info like screenshots? (provide them in the Note)}
+>
+> 4. What I think Resolution Looks Like
+{describe what a Great Rating resolution for this ticket would look like}
+>
+> 5. What is keeping me from Resolution
+{describe what is keeping you from getting that Great Rating resolution. If it's development, then focus on the Github issue, not escalating this ticket in Support}
+
 ### Angry Customers
 The other reason for escalating a ticket is if the customer is demonstrably angry or belligerent. Often an angry customer (in addition to simply needing to be handled per our [tone guide](tone-guide.md)'s principle of "results oriented") simply needs to hear from a different technician, and they respond well to titles like "Senior," "Director," or "Head." 
 
