@@ -24,7 +24,7 @@ To that end, we use Github as a Project Management tool in the following ways:
 
 Every significant change or update to our docs starts by creating a new Github issue. Our docs issues are public [here ](https://github.com/WordImpress/Give-Docs/issues).
 
-Because our Docs are very tightly related to development workflow, we generally follow similar protocols for issue creation. Specifically when it comes to titles of issues, we follow the [Give Github Communication Standards](https://github.com/WordImpress/Give/wiki/Git-Communication-Standards) regarding [Prefixes](https://github.com/WordImpress/Give/wiki/Prefixes).
+Because our Docs are very tightly related to development workflow, we generally follow similar protocols for issue creation. Specifically when it comes to titles of issues, we follow the [GiveWP Github Communication Standards](https://github.com/WordImpress/Give/wiki/Git-Communication-Standards) regarding [Prefixes](https://github.com/WordImpress/Give/wiki/Prefixes).
 
 The "type" for all Docs issues is always "web-doc"; whereas the "scope" should follow other standards in regard to which part of the plugin or add-on needs addressing in our online docs.
 
@@ -34,7 +34,7 @@ An example of a Github issue with a proper prefix is:
 
 From this we know that a Documentation article related to the admin email setting needs to be updated.
 
-The Give Docs repository has an issue template that is very detailed and helpful, here. It is in the team's best interest that everyone follows the issue template closely, so that documentation can get high-quality attention each day.
+The GiveWP Docs repository has an issue template that is very detailed and helpful, here. It is in the team's best interest that everyone follows the issue template closely, so that documentation can get high-quality attention each day.
 
 ### Assigning Issues
 
@@ -46,7 +46,7 @@ When assignments are made, it is the responsibility of the one doing the assigni
 
 Not all docs issues are created equal. Some issues are urgent, while others might be an ongoing goal.
 
-Support Leadership will indicate urgency by using Milestones. For example, a Milestone might be created that is connected to a specific Give version release. This means that the issues tied to that Milestone need to be completed by the time the new Give version is released.
+Support Leadership will indicate urgency by using Milestones. For example, a Milestone might be created that is connected to a specific GiveWP version release. This means that the issues tied to that Milestone need to be completed by the time the new GiveWP version is released.
 
 While there is always documentation work to be done, issues that are connected to any Milestone should be treated as the first priority.
 
@@ -67,7 +67,7 @@ b. Review the online docs to create new issues
 
 ## Coordinating with the Development Team
 
-Often, a Milestone will be inherited from the development workflow. For example, [the Give Development Team works in Sprints](https://github.com/WordImpress/Give/wiki/Sprints). When the Development Team is in their final Sprint before a release, the docs issues tied to that release will be added to the same Sprint. This helps ensure that everyone both in Support and Development understand the urgency of the issues as well as make sure changes made to the code during that Sprint are communicated to Support so that Docs can be as accurate as possible.
+Often, a Milestone will be inherited from the development workflow. For example, [the GiveWP Development Team works in Sprints](https://github.com/WordImpress/Give/wiki/Sprints). When the Development Team is in their final Sprint before a release, the docs issues tied to that release will be added to the same Sprint. This helps ensure that everyone both in Support and Development understand the urgency of the issues as well as make sure changes made to the code during that Sprint are communicated to Support so that Docs can be as accurate as possible.
 
 {% hint style="info" %}
 Keep in mind that the documentation writing experience itself can sometimes be instructive in highlighting user issues that might need to be improved upon before release.
