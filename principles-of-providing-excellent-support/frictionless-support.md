@@ -90,7 +90,7 @@ If there are multiple issues \(some technical and some for the Customer Success 
 
 This means that if we have access to the back end of a customer site having license issues, we interface with the customer success team to make sure that the issues are handled, and then respond to the customer to say "we made sure the correct licenses are added to your site, and you are good to go!"
 
-Another case for involving another department is when we identify a good candidate for a Give Story or collaboration with the content team. In this case, we take the initiative to invite them to submit a Give Story via the form on our site.
+Another case for involving another department is when we identify a good candidate for a GiveWP Story or collaboration with the content team. In this case, we take the initiative to invite them to submit a GiveWP Story via the form on our site.
 
 ## Summary
 

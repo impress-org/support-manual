@@ -27,7 +27,7 @@ Tickets that have identified issues and bugs are tagged as waiting-on-fix in Hel
 
 ### Issue is resolved
 
-Reply to the customer with either the version of the add-on or Give core that the issue is fixed in, and close the ticket. Leave the waiting-on-fix tag for historical reference.
+Reply to the customer with either the version of the add-on or GiveWP core that the issue is fixed in, and close the ticket. Leave the waiting-on-fix tag for historical reference.
 
 ### Issue is not resolved, but actively being worked on
 

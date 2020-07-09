@@ -79,7 +79,7 @@ If you can’t explain it to a ten-year-old, go back and rewrite it.
 {% hint style="warning" %}
 **NOTE**  
 Avoid being patronizing to developers and agency folks who reach out. If they reference the developer console and provide a specific line of code where they are having a problem, treat them with respect, and educate them specifically about our products.
-{% endhint %}
+{% endhint %} 
 
 ## Welcoming, not Thankful
 
@@ -89,7 +89,7 @@ Instead, we are excited and welcoming. Taking the few extra seconds to find some
 
 For example, how you set the tone with your first sentence in your first reply makes a big impact.
 
-* **Ineffective Opener** “Thanks for contacting Give support”
+* **Ineffective Opener** “Thanks for contacting GiveWP support”
 * **Effective Opener** “It’s so great to help raise awareness for Autism and special needs children. I’ve seen this technical issue you’re experiencing before, and look forward to getting you back to doing what matters: helping the kids.”
 
 {% hint style="warning" %}
