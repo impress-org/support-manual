@@ -20,6 +20,7 @@
   * [Using Slack](communicating-as-a-team/using-slack.md)
   * [Weekly Meetings](communicating-as-a-team/weekly-meetings.md)
 * [Documentation](documentation/README.md)
-  * [Managing Tasks for Docs](documentation/management.md)
+  * [Docs Responsibilities for all Support Technicians](documentation/responsibilities.md)
+  * [Responsibilities for the Docs Project Manager](documentation/management.md)
   * [Writing Online Docs](documentation/writing-docs.md)
 
