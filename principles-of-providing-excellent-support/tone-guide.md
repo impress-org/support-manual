@@ -1,4 +1,4 @@
-# Communicating Effectively \(aka the "Tone Guide"\)
+# Communicating Effectively \(AKA the "Tone Guide"\)
 
 We are our customer’s wise friend, not a corporate policy enforcer or policy defender. We want our customers to succeed, and we are the guide to help them when they need it. Our customer is James Bond, we are Q: equipping them with the tools, resources, and knowledge to win the day\*. To that end, our tone is marked by these qualities \(with the helpful acronym CREW\):
 
