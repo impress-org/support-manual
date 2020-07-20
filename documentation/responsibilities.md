@@ -22,19 +22,19 @@ The Docs Project Manager and Head of Support are responsible for the "For Review
 
 At the end of each week, the Doc Project Manager will post a Progress Report detailing what got done each week. Each technician should review that report to be informed of the team's collective work and heed any advice or directives for the next week's Docs work.
 
-## Using Canny for Docs Feedback
+## Using The Feedback Site for Docs Feedback
 
 Throughout your daily interactions with customers and users, you'll be referring to our docs and you might also get feedback about our docs. Part of your contribution to our online documentation is to provide those insights and feedback to our Docs team.
 
-We provide that feedback via Canny. 
+We provide that feedback via the [feedback site](https://feedback.givewp.com). 
 
-Part of your daily tasks can be reviewing existing feedback in Canny, voting on posts, commenting on them with additional insights, linking to new Help Scout threads that give more user feedback, and -- of course -- creating new feedback posts. 
+Part of your daily tasks can be reviewing existing feedback, voting on posts, commenting on them with additional insights, linking to new Help Scout threads that give more user feedback, and -- of course -- creating new feedback. 
 
 These posts are processed by the Docs Project Manager and Head of Support to create the Asana tasks for the entire Support Team to implement. 
 
-![A sample Docs feedback post in Canny.](/assets/canny-documentation-feedback-details.png)
+![A sample Docs feedback post.](/assets/canny-documentation-feedback-details.png)
 
 {% hint style="info" %}
-**Pro Tip**  
-Keep in mind that Canny has a public-facing side. When you post new feedback, don't reveal anything about users or customers at all. If you need to reference a user or customer in a comment, you can set that as an internal comment only. Even then, it's best simply to avoid posting any sensitive information into Canny at all.
+**Important**  
+Keep in mind that the feedback site has a public-facing side. When you post new feedback, don't reveal anything about users or customers at all. If you need to reference a user or customer in a comment, you can set that as an internal comment only. Even then, it's best simply to avoid posting any sensitive information into the feedback site at all.
 {% endhint %}

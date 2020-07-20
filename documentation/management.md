@@ -13,11 +13,11 @@ Properly managing our online docs requires the following:
 
 ## Managing Docs Feedback and Turning it into Tasks
 
-We use [Canny](https://canny.io) for receiving and processing feedback for our online docs. The role of the Docs Project Manager is to process all incoming feedback and take action on it. That is done via three main steps:
+We use the [GiveWP feedback site](https://feedback.givewp.com) for receiving and processing feedback for our online docs. The role of the Docs Project Manager is to process all incoming feedback and take action on it. That is done via three main steps:
 
-1. Processing new posts
-2. Adding additional insight/context to existing posts
-3. Converting posts into actionable and detailed Asana tasks
+1. Processing new feedback
+2. Adding additional insight/context to existing feedback via internal and external comments
+3. Converting feedback into actionable and detailed Asana tasks
 
 ### Processing New Posts
 
@@ -34,9 +34,9 @@ As new posts come in, the Docs Project Manager will review them and update their
 
 This is a responsibility of the entire Support Team, but it is vital that the Docs Project Manager be on the lookout at all times for opportunities to add new insight to existing feedback.
 
-This can be done by adding new users to Canny to represent additional voices and votes to existing issues. If you hear of similar feedback in Slack or via Help Scout threads, or social media platforms, you can add that person (with or without their email address) to indicate that more than one person agrees with this feedback.
+This can be done by adding new users as "Voters" to represent additional voices and votes to existing issues. If you hear of similar feedback in Slack or via Help Scout threads, or social media platforms, you can add that person (with or without their email address) to indicate that more than one person agrees with this feedback.
 
-![Adding additional users as votes to an existing feedback post in Canny](/assets/canny-adding-another-voter.png)
+![Adding additional users as votes to an existing feedback post](/assets/canny-adding-another-voter.png)
 
 ### Converting posts into actionable and detailed Asana tasks
 
@@ -46,7 +46,7 @@ Details for creating Asana tasks are in the next section below.
 
 ## Managing and Tracking all Docs Tasks
 
-We use Asana for managing docs tasks. One of the primary responsibilities of the Docs Project Manager is to convert feedback (in Canny) to actionable tasks in Asana and assign them to relevant team members.
+We use Asana for managing docs tasks. One of the primary responsibilities of the Docs Project Manager is to convert feedback from the feedback site into actionable tasks in Asana and assign them to relevant team members.
 
 There are generally two types of tasks that can be created: New docs, Existing Doc Updates. 
 
@@ -63,7 +63,7 @@ Once duplicated, the Description and sub-tasks spell out the necessary informati
 
 {% hint style="info" %}
 **Pro Tip**  
-It's important that the feedback you have from Canny is enough to create this task. If it isn't, you need to go back to those who provided the feedback to get more insight.
+It's important that the feedback is thorough enough to create this task. If it isn't, you need to go back to those who provided the feedback to get more insight.
 {% endhint %}
 
 ### Assigning Tasks
