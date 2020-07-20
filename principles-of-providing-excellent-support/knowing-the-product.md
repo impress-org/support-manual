@@ -37,7 +37,7 @@ GiveWP add-ons are constantly being added and updated. Support Technicians must 
 
 By virtue of our role and the time spent in tickets, much of the add-on functionality will be learned out of necessity, but it is critical that support technicians use both tickets and new development to spur their knowledge of add-ons.
 
-Support technicians should regularly peruse GitHub for the latest issues and discussion, as well as the developer team summaries to see new development.
+Support technicians should regularly peruse GitHub as well as the feedback site for the latest feedback, issues, discussion, as well as the developer team summaries to see new development.
 
 ## Setting Actionable Product Knowledge Goals
 

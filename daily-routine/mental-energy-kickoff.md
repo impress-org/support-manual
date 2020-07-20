@@ -22,7 +22,7 @@ Another excellent way to gain more knowledge and experience with WordPress as a 
 
 Try starting with the Support topics that [have no replies](https://wordpress.org/support/view/no-replies/). Contributing in this way improves your WordPress knowledge, contributes to the wider WordPress community, and enhances your skills as a Support Technician.
 
-## Review Github Issues
+## Review Github Issues and Product Feedback
 
 Development at GiveWP happens very quickly as well. There are new issues and features cropping up daily. Our Development Team reports their activity on Github in a very detailed and accessible manner. Reviewing existing Github issues, commits, and Pull Requests has several major benefits:
 
@@ -31,11 +31,11 @@ Development at GiveWP happens very quickly as well. There are new issues and fea
 * Keeps you informed on upcoming releases and new features
 * Gives you more direct knowledge of existing issues so you can be more informed when you support our customers.
 
-Review our guide on [Contributing to Github Issues](contributing-to-github-issues.md) for how to do that.
+Review our guide on [Contributing to Product Feedback](contributing-product-feedback.md) for how to do that.
 
 ## Dig Into GiveWP Core and an Unfamiliar Add-on
 
-Part of contributing to Github Issues is also getting more familiar with GiveWP Core and its growing list of add-ons. If you've had times where you have to provide support for an add-on that you felt unfamiliar with, MEKO is a great opportunity to spend time getting more familiar with that add-on.
+Part of contributing to product feedback is also getting more familiar with GiveWP Core and its growing list of add-ons. If you've had times where you have to provide support for an add-on that you felt unfamiliar with, MEKO is a great opportunity to spend time getting more familiar with that add-on.
 
 Take the time to setup the add-on in your local environment. If it's a gateway or integration with a third-party app, take the time to set up a developer account for that service and fully integrate the add-on locally and test it.
 
@@ -43,7 +43,7 @@ This type of activity improves your skills as a support technician in several va
 
 * You know the product better and therefore can support it with more detail and expertise.
 * You can review and improve existing online documentation for that add-on or GiveWP Core feature.
-* You can contribute to the Github repo with more insight on existing issues, or contribute new issues.
+* You can contribute to the product feedback with more insight on existing issues, or contribute new issues.
 
 ## Communicate with the Team about your Mental Energy Kick-Off
 

@@ -6,7 +6,7 @@
   * [Mental Energy Kick-off](daily-routine/mental-energy-kickoff.md)
   * [Low-Hanging Fruit/Fire Patrol](daily-routine/low-hanging-fruit.md)
   * [Unassigned versus Assigned](daily-routine/unassigned-vs-assigned.md)
-  * [Creating and Contributing to Github Issues](daily-routine/contributing-to-github-issues.md)
+  * [Creating and Contributing to Product Feedback](daily-routine/contributing-product-feedback.md)
   * [\#QueueHealthHabits](daily-routine/queue-health-habits.md)
   * [Decompress Time](daily-routine/decompress-time.md)
 * [Principles of Providing Excellent Support](principles-of-providing-excellent-support/README.md)

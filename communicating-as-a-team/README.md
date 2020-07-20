@@ -4,7 +4,7 @@ Because we are \(almost\) never in the same room to communicate, and are distrib
 
 Depending on the subject matter or the need for synchronous vs. asynchronous coomincation, we use different tools.
 
-Generally, for real-time communication and [team meetings](weekly-meetings.md) we use Slack calls and Google hangouts. For asynchronous communication, we use [Slack](using-slack.md) and if the issue warrants tracking to completion or needs the input of the development team we use [GitHub](../daily-routine/contributing-to-github-issues.md).
+Generally, for real-time communication and [team meetings](weekly-meetings.md) we use Slack calls and Google hangouts. For asynchronous communication, we use [Slack](using-slack.md) and if the issue warrants tracking to completion or needs the input of the development team we use [the GiveWP Feedback site](../daily-routine/contributing-product-feedback.md).
 
 Email is generally reserved for HR-related requests and reimbursements.
 

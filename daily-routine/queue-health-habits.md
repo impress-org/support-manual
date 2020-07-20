@@ -23,23 +23,28 @@ Also, during that time, ensure that any cc'd emails were correctly added to the 
 
 ## Reviewing and Handling waiting-on-fix
 
-Tickets that have identified issues and bugs are tagged as waiting-on-fix in Help Scout, and left as pending. During \#QHH time, review the associated GitHub issue \(or add the github issue to the top of the ticket in a note\) and respond accordingly. Depending on the issue status, here's how to respond:
+Tickets that have identified issues and bugs are tagged as waiting-on-fix in Help Scout, and left as pending. During \#QHH time, review the associated Feedback on [the GiveWP Feedback Site](https://feedback.givewp.com) \(or add the feedback link to the top of the ticket in a note\) and respond accordingly. 
 
-### Issue is resolved
+Note that issues on GitHub are created once the team is actively working on them in the current development cycle. 
+
+Depending on the issue status, here's how to respond:
+
+### Issue has been created is resolved
 
 Reply to the customer with either the version of the add-on or GiveWP core that the issue is fixed in, and close the ticket. Leave the waiting-on-fix tag for historical reference.
 
-### Issue is not resolved, but actively being worked on
+### Issue has been created and is not resolved, but actively being worked on
 
 It is meaningful for our customers to hear back that “we’ve not forgotten about this issue, and the dev team is currently working on it.”
 
 Be careful not to over-promise on a release timeline.
 
-### Issue is not resolved, and has seen no movement
-
-If we check and discover an issue has not received any attention based on the github issue, we ping the Head of Support or the Senior Support technician to add the appropriate label on github, at their discretion.
+### Issue is has not been created
+If we check and discover an issue has not been created, we ping the Head of Support or the Senior Support technician to interface with the development team, at their discretion.
 
 If you’ve responded more than once with “I just checked and the dev team is not currently working on this issue” or similar, use discretion “poking the bear” here. Understand and empathize that an issue which is not what the dev team deems “critical” is still critical to a customer \(especially if their boss, board, or donors are asking about it\).
+
+This is also a great time to add an internal comment linking to the Help Scout ticket, if the user is reaching out repeatedly. Conversations in Slack's \#Support channel are encouraged before replying to a user.
 
 ## Review/Add Tags
 

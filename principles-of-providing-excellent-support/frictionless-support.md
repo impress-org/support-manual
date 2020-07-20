@@ -56,7 +56,7 @@ Here's our escalation note template:
 > 2. Quick Summary of the Problem {summarize the users problem succinctly}
 > 3. How Did I Verify the Problem? {Did you replicate it outside the user's site? \(provide steps\); Saw it on the user's site? \(provide steps\), Have additional info like screenshots? \(provide them in the Note\)}
 > 4. What I think Resolution Looks Like {describe what a Great Rating resolution for this ticket would look like}
-> 5. What is keeping me from Resolution {describe what is keeping you from getting that Great Rating resolution. If it's development, then focus on the Github issue, not escalating this ticket in Support}
+> 5. What is keeping me from Resolution {describe what is keeping you from getting that Great Rating resolution. If it's development, then focus on the product feedback, not escalating this ticket in Support}
 
 ### Angry Customers
 

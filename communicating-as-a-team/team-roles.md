@@ -14,7 +14,7 @@ The ST should feel the freedom to reach out at any time to other STs as well as 
 
 When necessary, STs can and should interface directly with the developers on issues to bring clarity and assistance.
 
-A helpful distinction for where the ST role ends and HoS/Development team begins is that STs declare what's important to the customer, but don't decide what's important to the business or team. STs [create and contribute to the GitHub issues](../daily-routine/contributing-to-github-issues.md), document our customer's frustration or happiness, and leave the timeline for fixes to other roles. STs are equally developer ambassadors to customers, in this case. STs clarify timeles set by developers, or "run interference" when no timeline is set.
+A helpful distinction for where the ST role ends and HoS/Development team begins is that STs declare what's important to the customer, but don't decide what's important to the business or team. STs [create and contribute to product feedback](../daily-routine/contributing-product-feedback.md), document our customer's frustration or happiness, and leave the timeline for fixes to other roles. STs are equally developer ambassadors to customers, in this case. STs clarify timeles set by developers, or "run interference" when no timeline is set.
 
 ## Senior Support Technician
 

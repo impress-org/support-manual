@@ -22,19 +22,19 @@ After a call, we write a call summary and post in the \#support slack channel. T
 
 For more on Escalation, see the section on [Frictionless Support](../principles-of-providing-excellent-support/frictionless-support.md).
 
-## Using the TODO App
+## Using the /remind integration
 
-Since slack by its nature is asynchronous, it is easy for important or urgent items to get buried. To help with this, there are a number of things to keep in mind before using Slack at all. First, if this is an item that you want the development team to take action on, the best place to start the conversation is via a GitHub issue. Since GitHub issues are ported to the \#development Slack channel, any internal discussion of the issue can take place there, as a thread on the issue.
+Since slack by its nature is asynchronous, it is easy for important or urgent items to get buried. To help with this, there are a number of things to keep in mind before using Slack at all. First, if this is an item that you want the development team to take action on, the best place to start the conversation is via product feedback. Since GitHub issues are ported to the \#development Slack channel, any internal discussion of the issue can take place there, as a thread on the issue.
 
-Similarly, if the issue is related to documentation or this support manual, the best place to ensure that the issue is not overlooked is to create a github issue in the respective repositories.
+Similarly, if the issue is related to documentation or this support manual, the best place to ensure that the issue is not overlooked is to create feedback on the [GiveWP Feedback Site](https://feedback.givewp.com)
 
-For other issues surrounding tasks for support technicians to complete, which would tend to get lost in the pile on Slack, we use the TODO app. Good examples of this are escalated tickets to a specific person, or a ticket that requires the attention of a specific person.
+For other issues surrounding tasks for support technicians to complete, which would tend to get lost in the pile on Slack, we use the /remind integration in Slack. Good examples of this are escalated tickets to a specific person, or a ticket that requires the attention of a specific person. Type `/remind {person} to {do something} {at this specifice time}` A fully functional `/remind` note would be `/remind @Ben Meredith to handle this escalated ticket (link) tomorrow at 9AM`
 
 ## Using the Must-Read App
 
 Similarly to the TODO app, the must read app is for making sure than things don't get lost in the asynchronous nature of Slack. The must-read app is best used for something discovered that everyone needs to be aware of. A good example would be
 
-> I figured out the fix for the nonce error we've been seeing @supportteam. The fix is _\_\__ @must-read
+> I figured out the fix for the user access error we've been seeing @supportteam. The fix is _\_\__ @must-read
 
 Using the Must-Read app in the side bar, you can quickly get up to speed on all issues that are marked that way.
 

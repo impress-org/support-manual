@@ -96,9 +96,9 @@ This weekly Progress Report should have the following elements:
 
 ## Coordinating with the Development Team
 
-The product managers on the development team, along with the developers themselves, are in charge of making sure that enhancements and changes to the product that require modification of the online docs are tagged in a specific way within the GitHub repositories. 
+The product managers on the development team, along with the developers themselves, are in charge of making sure that enhancements and changes to the product that require modification of the online docs are tagged in a specific way within the feedback site. 
 
-It's the role of the docs project manager to regularly consolidate issues from GitHub into tasks in Asana, and to tag those tasks in conjunction with a release, when applicable.
+It's the role of the docs project manager to regularly consolidate feedback into tasks in Asana, and to tag those tasks in conjunction with a release, when applicable.
 
 {% hint style="info" %}
 Keep in mind that the documentation writing experience itself can sometimes be instructive in highlighting user issues that might need to be improved upon before release.
