@@ -6,9 +6,14 @@ Any time we create feedback on the site that is based on a request from Priority
 
 The feedback site is designed to provide a space between "Users are requestiong this issue" and "the development team is working on this issue" so that support technicians can always tell what is being actively worked on during the current development cycle \(it's on GitHub\) and what is still being evaluated for inclusion in a future development cycle \(it's in the feeback pipeline and marked accordingly\).
 
-The following are all valid reasons to add new feedback, or add additional voters to existing feedback:
+There are three types of product feedback:
+1. Bug Reports
+1. Feature Requests
+1. Documentation 
 
-## Reporting Bugs
+The first two are discussed here. For more on Documentation feedback, see the section on [Managing Docs](/documentation/responsibilities.md). 
+
+## Bug Reports
 
 If in the course of replicating customer issues we find a bug that is replicable in a separate environment, we should immediately create feedback, and alert Senior Support Technicians and/or the Head of Support that the feedback has been reported. It's not the role of Support Technicians to determine if an issue is urgent, just to keep an accurate count of how many folks are reporting an issue. 
 
@@ -73,6 +78,36 @@ This category is for adding to or extending functionality that is currently pres
 #### Integration
 This category is for features that require integrating with third party services and APIs. 
 
-
+## Feedback Statuses
+​
+All feedback posts have a public status that indicates the current state of the feedback. These statuses are set by the Product Manager and kept up to date as feedback progresses into development or is dismissed.
+​
+### Open
+​
+Feedback has not yet been processed by the Product Manager.
+​
+### Under Review
+​
+Feedback has been processed by the Product Manager who completes the following steps:
+​
+-   Reviews the feedback and any linked customer insights
+-   Determines the priority of the feedback and escalate urgency if needed
+-   Categorizes and tags the feedback
+​
+### Planned
+​
+The development team has committed to addressing the feedback in the next development cycle. At the beginning of each development cycle, the Product Manager will apply this status to indicate that a resolution for the feedback has been planned.
+​
+### In Progress
+​
+Development is in progress. At this stage, the Product Manager should have linked the feedback post to a GitHub issue. Once a GitHub issue has been linked, most of the progress regarding development will take place in GitHub.
+​
+### Complete
+​
+Feedback has been addressed, related GitHub issues have been merged, and the new or improved functionality has been released to the public. At this point, customers inquiring about this feedback should be directed to the latest release of the product.
+​
+### Closed
+​
+Feedback has been dismissed without a resolution. Rationale for dismissing the feedback should be provided on the post.
 
 
