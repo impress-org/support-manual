@@ -12,7 +12,7 @@ There are three types of product feedback:
 1. Feature Requests
 1. Documentation 
 
-The first two are discussed here. For more on Documentation feedback, see the section on [Managing Docs](/documentation/responsibilities.md). 
+The first two are discussed here. For more on Documentation feedback, see the section on [Managing Docs](/documentation/responsibilities.md#using-the-feedback-site-for-docs-feedback). 
 
 ## Bug Reports
 
