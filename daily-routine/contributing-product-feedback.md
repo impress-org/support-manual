@@ -32,7 +32,14 @@ In order to provide as much context as possible, use internal comments to link t
 
 ![Finding the correct URL in Help Scout](/assets/help-scout-correct-url.png)
 
-If you have separate feedback from the user, use a separate internal comment. 
+The following template should be used for feedback recieved from users:
+```
+Firstname Lastname via [Priority Support](URL GOES HERE):
+Most relevant feedback from the user gets pasted here.
+```
+This follows for feedback recieved from social media, priority support, or anywhere else.
+
+If you as the technician have separate feedback from the user, use a separate internal comment. 
 
 ### Voting on Behalf of Users
 When you create feedback on behalf of users, to keep an accurate count of how many users are reporting the issue, be sure to add them as a voter. Begin by searching the voters already in the system, and then add in the user using the "Add voter" link:
