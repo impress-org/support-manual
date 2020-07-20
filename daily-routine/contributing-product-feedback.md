@@ -7,6 +7,7 @@ Any time we create feedback on the site that is based on a request from Priority
 The feedback site is designed to provide a space between "Users are requestiong this issue" and "the development team is working on this issue" so that support technicians can always tell what is being actively worked on during the current development cycle \(it's on GitHub\) and what is still being evaluated for inclusion in a future development cycle \(it's in the feeback pipeline and marked accordingly\).
 
 There are three types of product feedback:
+
 1. Bug Reports
 1. Feature Requests
 1. Documentation 
