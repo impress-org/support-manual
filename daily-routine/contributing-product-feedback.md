@@ -69,6 +69,11 @@ GiveWP is constantly adding new features via add-ons, enhancements of existing f
 1. Feature requests are given a category
 1. There's no "should" language in the feature name.
 
+{% hint style="info" %}
+**Pro Tip**  
+The feature name should fit nicely into the sentence "GiveWP announces \_\_\_\_\_\_\_\_\_\_"
+{% endhint %} 
+
 Any time a user or customer expresses interest in a feature, we make note of that by either creating new feedback, or adding voters to existing feedback. The procedure for adding a new voter is the same as for adding voters to Bug Reports.
 
 ### Feature Categories
