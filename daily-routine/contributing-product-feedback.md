@@ -100,6 +100,7 @@ Feedback has been processed by the Product Manager who completes the following s
 -   Determines the priority of the feedback and escalate urgency if needed
 -   Categorizes and tags the feedback
 ​
+
 ### Planned
 ​
 The development team has committed to addressing the feedback in the next development cycle. At the beginning of each development cycle, the Product Manager will apply this status to indicate that a resolution for the feedback has been planned.
