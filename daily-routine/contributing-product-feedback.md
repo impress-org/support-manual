@@ -99,7 +99,8 @@ Feedback has been processed by the Product Manager who completes the following s
 -   Reviews the feedback and any linked customer insights
 -   Determines the priority of the feedback and escalate urgency if needed
 -   Categorizes and tags the feedback
-​
+
+This status does not indicate a commitment to take action on the feedback.​
 
 ### Planned
 ​
