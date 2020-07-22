@@ -18,9 +18,9 @@ The first two are discussed here. For more on Documentation feedback, see the se
 
 If in the course of replicating customer issues we find a bug that is replicable in a separate environment, we should immediately create feedback, and alert Senior Support Technicians and/or the Head of Support that the feedback has been reported. It's not the role of Support Technicians to determine if an issue is urgent, just to keep an accurate count of how many folks are reporting an issue. 
 
-To create the feedback for bugs, visit the [bug reports page of the feedback site](https://feedback.givewp.com/admin/board/bug-reports) and first search for related feedback to ensure the bug has not already been reported. 
+To create the feedback for bugs, visit the [bug reports page of the feedback site](https://feedback.givewp.com/admin/board/bug-reports) and click to create new feedback. While filling out the title and description of the feedback, ensure the bug has not already been reported. using the column on the right.
 
-![Reporting Bug Report Feedback](/assets/canny-new-bug-feedback.png)
+![Reporting Bug Report Feedback](/assets/canny-create-bug-feedback.gif)
 
 If the bug is not already reported, use the left-side interface to report a new bug. 
 
@@ -55,7 +55,7 @@ Public comments by admins on the site will trigger emails to all voters and peop
 ### Voting on Behalf of Users
 When you create feedback on behalf of users, to keep an accurate count of how many users are reporting the issue, be sure to add them as a voter. Begin by searching the voters already in the system, and then add in the user using the "Add voter" link:
 
-![Adding a User in the Feedback site](/assets/canny-add-voter-admin.png)
+![Adding a User in the Feedback site](/assets/canny-add-voter.gif)
 
 {% hint style="warning" %}
 **NOTE**  
