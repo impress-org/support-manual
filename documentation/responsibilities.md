@@ -1,6 +1,6 @@
 # Documentation Responsibilities for All Support Technicians
 
-Contributing to our online documentation is the responsibility of all of our Support Technicians. To that end, we have implemented the following practices to ensure our docs get appropriate attention and are reviewed and updated rigorously. 
+Contributing to our online documentation is the responsibility of all of our Support Technicians. To that end, we have implemented the following practices to ensure our docs get appropriate attention and are reviewed and updated rigorously. The Docs Project Manager \(DPM\) has [specific roles to play in documentation](documentation/management.md), but all Support Technicians have daily roles to play as well. This article walks through those responsibilities.
 
 ## Daily Check-ins
 
@@ -40,12 +40,12 @@ The link in the bottom right corner is an example of contextual documentation th
 Use the Details box to give as much context as needed for what is currently missing or incorrect in the documentation. Remember that this is public, so keep the initial details as generic as possible, and add further details as an internal comment. 
 
 #### Comments
-Once the feedback post has been created, use internal comments to add as much detail as possible, so that the docs Project Manager has enough information to create the doc task in Asana. Additionally, add as a comment \(with a link\) any feedback recieved in other channels \(Priority Support, Facebook, etc\) or customer/user insight that helps to explain the need for the documentation.
+Once the feedback post has been created, use internal comments to add as much detail as possible, so that the DPM has enough information to create the doc task in Asana. Additionally, add as a comment \(with a link\) any feedback recieved in other channels \(Priority Support, Facebook, etc\) or customer/user insight that helps to explain the need for the documentation.
 
 #### Voters
 On documentation feedback, adding voters is not necessary unless a customer specifically requested the documentation. If so, add them as a voter.
 
-These posts are processed by the Docs Project Manager and Head of Support to create the Asana tasks for the entire Support Team to implement. 
+These posts are processed by the DPM and Head of Support to create the Asana tasks for the entire Support Team to implement. 
 
 ![A sample Docs feedback post.](/assets/canny-documentation-feedback-details.png)
 
@@ -54,16 +54,39 @@ These posts are processed by the Docs Project Manager and Head of Support to cre
 Keep in mind that the feedback site has a public-facing side. When you post new feedback, don't reveal anything about users or customers at all. If you need to reference a user or customer in a comment, you can set that as an internal comment only. Even then, it's best simply to avoid posting any sensitive information into the feedback site at all.
 {% endhint %}
 
-## Navigating Asana
+## Using Asana
 
-We track our docs tasks in Asana. The "board" view is best to track what docs are "To Do", "In Progress", "For Review", "Approved/Ready to Publish", or "Complete". 
+Once feedback posts are recieved and processed by the DPM, they are prioritized and added as tasks in Asana.
+
+The feedback site is a look at _what needs to be done_. The Asana board, by contrast, is a look at _what we are currently working on_. 
 
 ![The GiveWP Web Doc Issues board in Asana.](/assets/asana-givewp-docs-board-view.png)
 
-Each technician is expected to manage their tasks and move them to the appropriate column as they progress on their docs. 
+The DPM creates tasks in Asana, and assigns them to technicians, leaving them in the "To Do" column. 
 
-The Docs Project Manager and Head of Support are responsible for the "For Review" and "Approved/Ready to Publish" and "Complete" columns. 
+Technicians manage their tasks and move them to the appropriate column as they progress on their docs. 
 
-At the end of each week, the Doc Project Manager will post a Progress Report detailing what got done each week. Each technician should review that report to be informed of the team's collective work and heed any advice or directives for the next week's Docs work.
+The DPM and Head of Support are responsible for the "For Review" and "Approved/Ready to Publish" and "Complete" columns. 
+
+Most docs need to be created in Google Drive before being published on the site. The technician should link to the Google Doc in the Asana task as a comment as soon as they begin working on the doc. Assets like screenshots and videos are placed in Google Drive separately, and then referenced in the Google Doc with brackets including alt text: `[picture-1.jpg alt: screenshot showing the Form edit screen, highlighting the Display tab]` This makes it easier to copy and paste content into the website. 
+
+Once the Doc is ready for review, it should go through this process:
+
+1. Technician moves the task to the "For Review" column.
+1. DPM loops in SEO team member from the content team to suggest edits for SEO purposes. 
+1. DPM approves those edits
+1. DPM reviews the Google Doc for the following:
+    - [ ] Grammar is correct
+    - [ ] No First Person language
+    - [ ] Content is accurate 
+    - [ ] Screenshots are visible, helpful, and include alt text
+1. DPM assigns the task to the Head of Support for final approval
+1. Head of Support approves post by moving it to "Approved/Ready to Publish" or sends back for edits by moving it to "In Progress"
+1. If approved, DPM publishes the post on the site.
+1. Once published, DPM has the technician who wrote it view it on the site to confirm everything displays correctly.
+1. Task is marked as complete and moved to the "Complete" column.
+
+
+At the end of each week, the DPM will post a Progress Report detailing what got done each week. Each technician should review that report to be informed of the team's collective work and heed any advice or directives for the next week's Docs work.
 
 
