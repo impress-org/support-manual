@@ -13,9 +13,14 @@ There are several important goals for every documentation article that we write.
 3. Provide context to how this feature relates to other features of the product or add-ons
 4. Expand the content of our website to further encourage search engines to make our website the authority on all technical matters related to the product
 
+## Documentation Voice
+1. Docs do not use first person language such as "our plugin" or "our team."
+1. Docs use the same [tone](principles-of-providing-excellent-support/tone-guide.md) as support tickets, that of a wise friend.
+1. Docs are designed to be skimmable.
+
 ## Composing Docs
 
-All our docs are custom post types build specifically for online documentation purposes. Documentation is a major source of content that greatly improves the search index for our website. Hosting our documentation on our website also ensures that we can build the docs in any way we see fit.
+All our docs are custom post types built specifically for online documentation purposes. Documentation is a major source of content that greatly improves the search index for our website. Hosting our documentation on our website also ensures that we can build the docs in any way we see fit.
 
 ### Summary
 
