@@ -1,6 +1,6 @@
 # Documentation Responsibilities for All Support Technicians
 
-Contributing to our online documentation is the responsibility of all of our Support Technicians. To that end, we have implemented the following practices to ensure our docs get appropriate attention and are reviewed and updated rigorously. The Docs Project Manager \(DPM\) has [specific roles to play in documentation](/management.md), but all Support Technicians have daily roles to play as well. This article walks through those responsibilities.
+Contributing to our online documentation is the responsibility of all of our Support Technicians. To that end, we have implemented the following practices to ensure our docs get appropriate attention and are reviewed and updated rigorously. The Docs Project Manager \(DPM\) has [specific roles to play in documentation](/documentation/management.md), but all Support Technicians have daily roles to play as well. This article walks through those responsibilities.
 
 ## Daily Check-ins
 
