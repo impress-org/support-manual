@@ -57,7 +57,7 @@ Keep in mind that the feedback site has a public-facing side. When you post new 
 
 ## Using Asana and Google Docs for Documentation
 
-Once feedback posts are recieved and processed by the DPM, they are prioritized and added as tasks in Asana.
+Once feedback posts are received and processed by the DPM, they are prioritized and added as tasks in Asana.
 
 The feedback site is a look at _what needs to be done_. The Asana board, by contrast, is a look at _what we are currently working on_. 
 
