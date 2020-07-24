@@ -90,7 +90,7 @@ The technician triggers the following sequence by placing the doc in "For Review
 1. DPM assigns the task SEO team member from the content team for a final SEO audit. 
 1. SEO team member assigns back to the DPM after the audit
 1. DPM has the technician who wrote it view it on the site to confirm everything displays correctly by commenting on the Asana task.
-1. DPM marks the task as complete and moves it to the "Complete" column.
+1. DPM publishes the doc, marks the task as complete and moves it to the "Complete" column.
 
 
 At the end of each week, the DPM will post a Progress Report detailing what got done each week. Each technician should review that report to be informed of the team's collective work and heed any advice or directives for the next week's Docs work.
