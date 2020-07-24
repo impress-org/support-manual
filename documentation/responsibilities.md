@@ -55,7 +55,7 @@ These posts are processed by the DPM and Head of Support to create the Asana tas
 Keep in mind that the feedback site has a public-facing side. When you post new feedback, don't reveal anything about users or customers at all. If you need to reference a user or customer in a comment, you can set that as an internal comment only. Even then, it's best simply to avoid posting any sensitive information into the feedback site at all.
 {% endhint %}
 
-## Using Asana
+## Using Asana and Google Docs for Documentation
 
 Once feedback posts are recieved and processed by the DPM, they are prioritized and added as tasks in Asana.
 
@@ -65,13 +65,18 @@ The feedback site is a look at _what needs to be done_. The Asana board, by cont
 
 The DPM creates tasks in Asana, and assigns them to technicians, leaving them in the "To Do" column. 
 
-Technicians manage their tasks and move them to the appropriate column as they progress on their docs. 
+The "To Do" column indicates that the technician has not started on the task.
 
-The DPM and Head of Support are responsible for the "For Review" and "Approved/Ready to Publish" and "Complete" columns. 
+Before starting on the task, the technician moves it to the "In Progress" column.
 
-Most docs need to be created in Google Drive before being published on the site. The technician should link to the Google Doc in the Asana task as a comment as soon as they begin working on the doc. Assets like screenshots and videos are placed in Google Drive separately, and then referenced in the Google Doc with brackets including alt text: `[picture-1.jpg alt: screenshot showing the Form edit screen, highlighting the Display tab]` This makes it easier to copy and paste content into the website. 
+The DPM and Head of Support are responsible for the "For Review" and "Approved/Ready to Publish" and "Complete" columns, outlined below. 
 
-Once the Doc is ready for review, it should go through this process:
+### Using Google Docs 
+
+Most docs need to be created in Google Docs before being published on the site. The technician should link to the Google Doc in the Asana task as a comment as soon as they begin working on the doc. All docs drafts go in the Drive at SUPPORT TEAM > DOCUMENTATION > GIVE > DRAFTS > \{folder named after the asana task\}. Assets like screenshots and videos are placed in that same folder, and then referenced in the Google Doc with brackets including alt text: `[picture-1.jpg alt: screenshot showing the Form edit screen, highlighting the Display tab]` This makes it easier to copy and paste content into the website. 
+
+
+The technician triggers the following sequence by placing the doc in "For Review:"
 
 1. Technician moves the task to the "For Review" column.
 1. DPM loops in SEO team member from the content team to suggest edits for SEO purposes. 
