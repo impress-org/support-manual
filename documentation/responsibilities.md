@@ -78,9 +78,7 @@ Most docs need to be created in Google Docs before being published on the site. 
 
 The technician triggers the following sequence by placing the doc in "For Review:"
 
-1. Technician moves the task to the "For Review" column.
-1. DPM loops in SEO team member from the content team to suggest edits for SEO purposes. 
-1. DPM approves those edits
+1. Technician moves the task to the "For Review" column. 
 1. DPM reviews the Google Doc for the following:
     - [ ] Grammar is correct
     - [ ] No First Person language
@@ -88,9 +86,11 @@ The technician triggers the following sequence by placing the doc in "For Review
     - [ ] Screenshots are visible, helpful, and include alt text
 1. DPM assigns the task to the Head of Support for final approval
 1. Head of Support approves post by moving it to "Approved/Ready to Publish" or sends back for edits by moving it to "In Progress"
-1. If approved, DPM publishes the post on the site.
-1. Once published, DPM has the technician who wrote it view it on the site to confirm everything displays correctly.
-1. Task is marked as complete and moved to the "Complete" column.
+1. If approved, DPM publishes the post on the site as a draft.
+1. DPM assigns the task SEO team member from the content team for a final SEO audit. 
+1. SEO team member assigns back to the DPM after the audit
+1. DPM has the technician who wrote it view it on the site to confirm everything displays correctly by commenting on the Asana task.
+1. DPM marks the task as complete and moves it to the "Complete" column.
 
 
 At the end of each week, the DPM will post a Progress Report detailing what got done each week. Each technician should review that report to be informed of the team's collective work and heed any advice or directives for the next week's Docs work.
