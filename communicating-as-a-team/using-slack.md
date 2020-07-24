@@ -28,7 +28,7 @@ Since slack by its nature is asynchronous, it is easy for important or urgent it
 
 Similarly, if the issue is related to documentation or this support manual, the best place to ensure that the issue is not overlooked is to create feedback on the [GiveWP Feedback Site](https://feedback.givewp.com)
 
-For other issues surrounding tasks for support technicians to complete, which would tend to get lost in the pile on Slack, we use the /remind integration in Slack. Good examples of this are escalated tickets to a specific person, or a ticket that requires the attention of a specific person. Type `/remind {person} to {do something} {at this specifice time}` A fully functional `/remind` note would be `/remind @Ben Meredith to handle this escalated ticket (link) tomorrow at 9AM`
+For other issues surrounding tasks for support technicians to complete, which would tend to get lost in the pile on Slack, we use the /remind integration in Slack. Good examples of this are escalated tickets to a specific person, or a ticket that requires the attention of a specific person. Type `/remind {person} to {do something} {at this specific time}` A fully functional `/remind` note would be `/remind @Ben Meredith to handle this escalated ticket (link) tomorrow at 9AM`
 
 ## Using the Must-Read App
 

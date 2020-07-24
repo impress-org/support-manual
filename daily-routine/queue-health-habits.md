@@ -19,8 +19,6 @@ That's done in the following ways:
 
 Since our first response is designed to be thorough, many times it will resolve the problem, and the customer simply does not reply back. At least twice per week, we’ll reply to those tickets with a “Close Ticket due to inactivity” canned response, which encourages a response from the customer, and then if they do not reply by the next day, we close the ticket.
 
-Also, during that time, ensure that any cc'd emails were correctly added to the original reply, and if not, reply with an apology for not cc’ing correctly.
-
 ## Reviewing and Handling waiting-on-fix
 
 Tickets that have identified issues and bugs are tagged as waiting-on-fix in Help Scout, and left as pending. During \#QHH time, review the associated Feedback on [the GiveWP Feedback Site](https://feedback.givewp.com) \(or add the feedback link to the top of the ticket in a note\) and respond accordingly. 

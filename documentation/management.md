@@ -1,6 +1,6 @@
 # Managing Tasks for Docs
 
-The role of the Docs Project Manager is crucial to the success of our online documentation. This article describes the process and daily responsibilities this role has in managing all the tasks for online documentation maintainance and improvement.
+The role of the Docs Project Manager is crucial to the success of our online documentation. This article describes the process and daily responsibilities this role has in managing all the tasks for online documentation maintenance and improvement.
 
 Online Documentation is a never-ending and vast project that is ever-changing. The only way to ensure that work on docs is done in an efficient manner with no overlap between technicians is to manage the tasks in a transparent and central place. 
 

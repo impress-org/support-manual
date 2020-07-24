@@ -4,7 +4,7 @@ As a part of our role of customer ambassador, when we find a problem, bug, or ar
 
 Any time we create feedback on the site that is based on a request from Priority Support, we add a note to the Help Scout ticket with a link to the feedback. 
 
-The feedback site is designed to provide a space between "Users are requestiong this issue" and "the development team is working on this issue" so that support technicians can always tell what is being actively worked on during the current development cycle \(it's on GitHub\) and what is still being evaluated for inclusion in a future development cycle \(it's in the feeback pipeline and marked accordingly\).
+The feedback site is designed to provide a space between "Users are requesting this issue" and "the development team is working on this issue" so that support technicians can always tell what is being actively worked on during the current development cycle \(it's on GitHub\) and what is still being evaluated for inclusion in a future development cycle \(it's in the feedback pipeline and marked accordingly\).
 
 There are three types of product feedback:
 
@@ -38,12 +38,12 @@ In order to provide as much context as possible, use internal comments to link t
 
 ![Finding the correct URL in Help Scout](/assets/help-scout-correct-url.png)
 
-The following template should be used for feedback recieved from users:
+The following template should be used for feedback received from users:
 ```
 Firstname Lastname via [Priority Support](URL GOES HERE):
 Most relevant feedback from the user gets pasted here.
 ```
-This follows for feedback recieved from social media, priority support, or anywhere else.
+This follows for feedback received from social media, priority support, or anywhere else.
 
 If you as the technician have separate feedback from the user, use a separate internal comment. 
 

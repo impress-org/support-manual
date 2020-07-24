@@ -41,7 +41,7 @@ The link in the bottom right corner is an example of contextual documentation th
 Use the Details box to give as much context as needed for what is currently missing or incorrect in the documentation. Remember that this is public, so keep the initial details as generic as possible, and add further details as an internal comment. 
 
 #### Comments
-Once the feedback post has been created, use internal comments to add as much detail as possible, so that the DPM has enough information to create the doc task in Asana. Additionally, add as a comment \(with a link\) any feedback recieved in other channels \(Priority Support, Facebook, etc\) or customer/user insight that helps to explain the need for the documentation.
+Once the feedback post has been created, use internal comments to add as much detail as possible, so that the DPM has enough information to create the doc task in Asana. Additionally, add as a comment \(with a link\) any feedback received in other channels \(Priority Support, Facebook, etc\) or customer/user insight that helps to explain the need for the documentation.
 
 #### Voters
 On documentation feedback, adding voters is not necessary unless a customer specifically requested the documentation. If so, add them as a voter.
