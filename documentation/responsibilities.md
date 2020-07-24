@@ -31,7 +31,8 @@ There are two categories of docs feedback:
 
 ##### Some examples of contextual documentation:
 All contextual documentation in this screenshot is highlighted in red:
-![Contextual documentation is included within the plugin itself](/assets/contextual-doc-examples.png)
+
+![Contextual documentation is included within the plugin itself.](/assets/contextual-doc-examples.png)
 
 Field descriptions and tooltips are among the most common types of contextual documentation.
 The link in the bottom right corner is an example of contextual documentation that leads to further web documentation.
