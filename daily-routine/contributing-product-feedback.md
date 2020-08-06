@@ -14,6 +14,11 @@ There are three types of product feedback:
 
 The first two are discussed here. For more on Documentation feedback, see the section on [Managing Docs](/documentation/responsibilities.md#using-the-feedback-site-for-docs-feedback). 
 
+{% hint style="warning" %}
+**NOTE**  
+The Bug/Feature Name and Details entered here are all publicly viewable. User information of any type should be removed from feedback.
+{% endhint %}
+
 ## Bug Reports
 
 If in the course of replicating customer issues we find a bug that is replicable in a separate environment, we should immediately create feedback, and alert Senior Support Technicians and/or the Head of Support that the feedback has been reported. It's not the role of Support Technicians to determine if an issue is urgent, just to keep an accurate count of how many folks are reporting an issue. 
@@ -32,35 +37,6 @@ The title of the bug should be short and descriptive and communicate what is bro
 
 ### Details
 In addition to a short and descriptive title, Bug Reports need 1-2 paragraphs demonstrating the bug replicated in a fresh environment. The goal of this section is to communicate \(in user-understandable language\) how to replicate the problem. 
-
-### Public and Internal Comments
-In order to provide as much context as possible, use internal comments to link to Help Scout tickets. Whenever possible, copy the link to the ticket as well as the relevant perspective from the user. Link to the actual reply that has the user's feedback, by copying the URL to the specific Help Scout reply: 
-
-![Finding the correct URL in Help Scout](/assets/help-scout-correct-url.png)
-
-The following template should be used for feedback received from users:
-```
-Firstname Lastname via [Priority Support](URL GOES HERE):
-Most relevant feedback from the user gets pasted here.
-```
-This follows for feedback received from social media, priority support, or anywhere else.
-
-If you as the technician have separate feedback from the user, use a separate internal comment. 
-
-{% hint style="warning" %}
-**NOTE**  
-Public comments by admins on the site will trigger emails to all voters and people following the feedback. We almost never use public comments for this reason.  
-{% endhint %} 
-
-### Voting on Behalf of Users
-When you create feedback on behalf of users, to keep an accurate count of how many users are reporting the issue, be sure to add them as a voter. Begin by searching the voters already in the system, and then add in the user using the "Add voter" link:
-
-![Adding a User in the Feedback site](/assets/canny-add-voter.gif)
-
-{% hint style="warning" %}
-**NOTE**  
-The Bug Name and Details entered here are all publicly viewable. User information of any type should be removed from feedback. Even in internal comments, avoid revealing any customer or user information.
-{% endhint %} 
 
 ## Feature Requests
 
@@ -88,6 +64,33 @@ This category is for adding to or extending functionality that is currently pres
 
 #### Integration
 This category is for features that require integrating with third party services and APIs. 
+
+## Voting on Behalf of Users
+When you create feedback on behalf of users, to keep an accurate count of how many users are reporting the issue, be sure to add them as a voter. Begin by searching the voters already in the system, and then add in the user using the "Add voter" link:
+
+![Adding a User in the Feedback site](/assets/canny-add-voter.gif)
+
+## Public and Internal Comments
+In order to provide as much context as possible, use internal comments to link to Help Scout tickets. Whenever possible, copy the link to the ticket as well as the relevant perspective from the user. Link to the actual reply that has the user's feedback, by copying the URL to the specific Help Scout reply: 
+
+![Finding the correct URL in Help Scout](/assets/help-scout-correct-url.png)
+
+### Internal Comment Markdown Template
+To record feedback that comes directly from users/customers use the following template:
+
+```
+Firstname Lastname via [Priority Support](URL GOES HERE):
+Most relevant feedback from the user gets pasted here.
+```
+
+This follows for feedback received from social media, priority support, or anywhere else. Be sure to include the user's name in the comment. \(they should also be added as a voter, if they haven't already\)
+
+If you as the technician have separate feedback from the user, use a separate internal comment. This prevents confusion in internal conversation. 
+
+{% hint style="warning" %}
+**NOTE**  
+Public comments by admins on the site will trigger emails to all voters and people following the feedback. We almost never use public comments for this reason.  
+{% endhint %} 
 
 ## Feedback Statuses
 ​
