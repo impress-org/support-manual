@@ -70,6 +70,8 @@ When you create feedback on behalf of users, to keep an accurate count of how ma
 
 ![Adding a User in the Feedback site](/assets/canny-add-voter.gif)
 
+Do not add the voter's email, to prevent them from getting unexpected emails from issues they didn't know they were following.
+
 ## Public and Internal Comments
 In order to provide as much context as possible, use internal comments to link to Help Scout tickets. Whenever possible, copy the link to the ticket as well as the relevant perspective from the user. Link to the actual reply that has the user's feedback, by copying the URL to the specific Help Scout reply: 
 
