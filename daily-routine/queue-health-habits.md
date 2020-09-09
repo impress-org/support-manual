@@ -21,7 +21,7 @@ Since our first response is designed to be thorough, many times it will resolve 
 
 ## Ensuring all tickets with bug feedback are tagged waiting-on-fix
 
-Tickets that have identified issues and bugs are tagged as `waiting-on-fix` in Help Scout, and left as pending. Feature requests are not tagged `waiting-on-fix`, and are closed with a link to the feedback. During QHH time, we ensure that the tags are correct for those two scenarios. When feedback is marked as complete \(for bug fixes or features\), we circle back with all associated customers linked from the feedback. That procedure is outlined in the appropriate section of the [Product feedback article](/contributing-product-feedback#delivering-development-team-feedback-to-customers).
+Tickets that have identified issues and bugs are tagged as `waiting-on-fix` in Help Scout, and left as pending. Feature requests are not tagged `waiting-on-fix`, and are closed with a link to the feedback. During QHH time, we ensure that the tags are correct for those two scenarios. When feedback is marked as complete \(for bug fixes or features\), we circle back with all associated customers linked from the feedback. That procedure is outlined in the appropriate section of the [Product feedback article](/contributing-product-feedback.md).
 
 ## Review/Add Tags
 
