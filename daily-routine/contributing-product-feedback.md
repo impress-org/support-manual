@@ -128,4 +128,21 @@ Feedback has been addressed, related GitHub issues have been merged, and the new
 ​
 Feedback has been dismissed without a resolution. Rationale for dismissing the feedback should be provided on the post.
 
+## Delivering development team feedback to customers
 
+When the feedback has been marked as Complete or Closed, support technicians are responsible to communicate that to customers.
+
+### Follow-up for Complete feedback
+
+When a bug has been fixed and released to the public, or a requested feature has shipped, Product Managers ping in the #productmanagement Slack channel. On that thread, individual support technicians should weigh in that they are following up with customers for particular feedback issues. 
+
+{% hint style="warning" %}
+**Important:**
+Technicians should reply to all customers linked to a feedback post, not just the ones they have assigned tickets for.
+{% endhint %}
+
+Once all customers for a particular feedback post have been notified, the technician should post an internal comment on the feedback to let everyone else know this is complete.
+
+### Following up for Closed feedback
+
+When feedback is marked as `Closed` this indicates that the development team does not plan to fix the issue or release the feature. When that happens, the product managers comment internally \(and sometimes publicly\) with the reason for the decision. Product managers *do not* use the feedback site's email features to notify voters, and technicians should reply individually to all customers with the reason. When in doubt about how to frame the reason, technicians should start a conversation on the #productmanagement Slack channel.
