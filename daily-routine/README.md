@@ -6,7 +6,7 @@ Clear communication keeps the whole team informed of activity and gives Support 
 
 Here's a general overview of what is expected throughout the day. Any significant deviation from this should be discussed with the team.
 
-* Login to Slack and announce that we’re starting our day \(using `@here` is useful so Slack only pings those who are currently online\)
+* Login to Slack and announce that we’re starting our day \(using `@supportteam` is useful so that Slack only pings the support team\)
 * Start the day with a 30-40 minute [Mental Energy Kickoff](mental-energy-kickoff.md) -- report in the appropriate slack channel what we accomplished.
 * [Unassigned/Assigned](unassigned-vs-assigned.md) -- always communicate in \#support whenever we are switching between Docs, or Unassigned, or Assigned
   * If it’s before 5:00 AM Pacific, check on Unassigned, If it’s out of control, get it in control. Otherwise, get as much Assigned done as we can until 5:00 AM Pacific.
