@@ -28,4 +28,4 @@ Any reply to the customer to "deactivate \_\_\_\_\_ plugin" (or any similar diag
 
 To clarify using a simile, imagine a scenario where you visit a surgeon, complaining of pain. "Deactivate all Plugins" would be the equivalent of the surgeon asking you to take 15 pills and let her know which one works. 
 
-We, like that surgeon, must give an educated, specific, and clear diagnosis. If that means asking more clarifying questions until the true cause of the problem shows up, that's far better than guessing and asking the user to confirm. We don't guess, we gather enough information to solve problems
+We, like that surgeon, must give an educated, specific, and clear diagnosis. If that means asking more clarifying questions until the true cause of the problem shows up, that's far better than guessing and asking the user to confirm. We don't guess, we gather enough information to solve problems.
