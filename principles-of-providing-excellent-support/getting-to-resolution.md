@@ -34,7 +34,7 @@ Additionally, asking for admin credentials is an indication that the technician 
 
 Before asking for credentials to a live environment, we should first attempt to resolve the issue by:
 * Asking for access to full-site backup that we can replicate locally
-* Access to a live staging or development environment
+* Asking for access to a live staging or development environment
 
 If none of those options are available, then we ask for live site credentials, but with a lot of care and context. Requests for admin credentials should have at least three things in them:
 
@@ -55,7 +55,7 @@ If none of those options are available, then we ask for live site credentials, b
 {Section on following-up with customer to delete our admin account, and also to delete site duplicates from Drive}.
 
 ## Help Scout Protocols
-In order to more objectively know that we are working toward resolution, we measure that based on several important metrics in Help Scout.
+In order to more objectively know that we are working toward resolution, we measure it based on several important metrics in Help Scout.
 
 * First Response time
 * Responses until Resolved
@@ -63,13 +63,13 @@ In order to more objectively know that we are working toward resolution, we meas
 
 In order for these metrics to reflect resolutions as closely as possible, it's important that each support technician follow these basic protocols when resolving customer issues. 
 
-### Managing 1st Responses
+### Managing First Responses
 The first response is always marked as Pending, waiting for the customer to confirm the fix. We encourage a response from the customer, so that we can confirm that fix, and have an additional touch-point with the customer.
 
 ### Closing Conversations that Do not Get Replies
-Occassionally the customer simply doesn't reply to our responses. But it is our goal to always have confirmation that the customer issue is in fact resolved. 
+Occasionally the customer simply doesn't reply to our responses. But it is our goal to always have confirmation that the customer issue is in fact resolved. 
 
-So if a customer does not reply to our first response, we reach back out within 3-5 days with the “Close Ticket due to inactivity” saved reply from Help Scout, and if no response then, close without a third reply.
+So if a customer does not reply to our first response, we reach back out within 3-5 days with the `close` saved reply from Help Scout, and if no response then, close without a third reply.
 
 Unfortunately, some customers will not reply to a ticket that has been resolved no matter how often we ask. For that reason, we close tickets after reaching out for resolution and checking Help Scout to confirm that the customer viewed the response.
 
