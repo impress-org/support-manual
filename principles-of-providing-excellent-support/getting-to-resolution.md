@@ -52,7 +52,14 @@ If none of those options are available, then we ask for live site credentials, b
 > 
 > If you need more of a walkthrough on that, here's a screencast showing how to send us credentials: https://shortnit.com/creds
 
-{Section on following-up with customer to delete our admin account, and also to delete site duplicates from Drive}.
+#### Removing Credentials and Customer Information
+In the course of troubleshooting issues where we have been given site access, several bits of less secure information can be created, including the credentials as well as copies of customer sites.
+
+First, whenever creating a local clone of a site, we store all Duplicator/backup ZIP files exclusively on the Impress Google Drive, and not on our individual machines. We use the Google Drive File Stream extension when applicable to make that process more seamless.
+
+Second, whenever we resolve an issue for a customer who has given us credentials, we ask them to completely delete the user they created, for security. At that time, we also delete the local copy of the site.
+
+Finally, any Help Scout or Slack notes with credentials of any type should be deleted. 
 
 ## Help Scout Protocols
 In order to more objectively know that we are working toward resolution, we measure it based on several important metrics in Help Scout.
