@@ -24,6 +24,8 @@ A common refrain in WordPress support is "have you tried deactivating all plugin
 
 There are times when deactivating plugins is the most effective way to isolate the source of the issue. In those cases, the recommendation should be because we, the experts, know with certainty that this will resolve the issue. We should frame the act as temporary, and a diagnostic tool to confirm our educated guess. Also, reassure the user that if a conflict with another plugin and ours is discovered in this process, we will work to find a workaround for the conflicting plugin or theme. 
 
+Advice to deactivate plugins runs the risk of coming across as dismissive or flippant. Instead, it should be educational and empowering to the user. That happens by adding context, and expected outcomes. We tell the user how to most effectively troubleshoot their problem to get to resolution.
+
 Lastly, whenever possible, if a staging site is available, or a full-site duplicate is available, using those for the deactivation process is preferred. When none of those are an option, point the customer to [our detailed tutorial on using the Health Check plugin](https://givewp.com/documentation/resources/troubleshoot-wordpress-websites-health-check/) as a last resort.
 
 ### Asking for Credentials
