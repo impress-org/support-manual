@@ -38,6 +38,10 @@ The title of the bug should be short and descriptive and communicate what is bro
 ### Details
 In addition to a short and descriptive title, Bug Reports need 1-2 paragraphs demonstrating the bug replicated in a fresh environment. The goal of this section is to communicate \(in user-understandable language\) how to replicate the problem. 
 
+### Votes are For Users
+
+To limit skewed popularity of bug report feedback, when we create bug reports we remove ourselves as voters. This allows the product management team to have a clear count of how many users are reporting a bug, which helps in determining severity of the bug and urgency needed for the fix.
+
 ## Feature Requests
 
 GiveWP is constantly adding new features via add-ons, enhancements of existing functionality, and new integrations. We use the feedback site for aggregating and tracking the number of users asking for a specific feature. Feature requests are different from bug reports in two key ways:
@@ -146,3 +150,4 @@ Once all customers for a particular feedback post have been notified, the techni
 ### Following up for Closed feedback
 
 When feedback is marked as `Closed` this indicates that the development team does not plan to fix the issue or release the feature. When that happens, the product managers comment internally \(and sometimes publicly\) with the reason for the decision. Product managers *do not* use the feedback site's email features to notify voters, and technicians should reply individually to all customers with the reason. When in doubt about how to frame the reason, technicians should start a conversation on the #productmanagement Slack channel.
+
