@@ -44,15 +44,18 @@ If none of those options are available, then we ask for live site credentials, b
 2. No-gos. What specific things are we _not_ going to do?
 3. Responsible recommendations on how to handle those credentials. The following canned reply should be used for all credential requests.
 
-> Here's the best way to send us temporary secure credentials:
+> For security and data privacy, we don't want access to your live site, but the quickest way to resolve this issue is by gaining access to a site where we can see the problem first-hand. 
+>
+> Here's the best way to send us temporary secure credentials to a staging or test environment:
+>
+> 1. Create a NEW user account with the email address \_\_\_\_\_\_\_\_\_ and let WordPress generate a strong password for you.
+> 1. Make sure that the User Role is set to "Administrator" -- this is necessary to see all the items that we need.
+> 1. Make sure WordPress does NOT send an email
+> 1. Go to https://quickforget.com/ and paste your credentials (with URL to the login page) there to create a secret URL. Set it to save for at least 48 hours. Reply here with that URL and it will expire after we open it once. This is a security precaution so you don't have to email credentials.
+> 1. Once this ticket is resolved, delete that whole user account for security purposes
 > 
-> 1) Create a NEW user account with the email address \_\_\_\_\_\_\_\_\_ and let WordPress generate a strong password for you.
-> 2) Make sure that the User Role is set to "Administrator" -- this is necessary to see all the items that we need.
-> 3) Make sure WordPress does NOT send an email
-> 4) Go to https://quickforget.com/ and paste your credentials (with URL to the login page) there to create a secret URL. Set it to save for at least 48 hours. Reply here with that URL and it will expire after we open it once. This is a security precaution so you don't have to email credentials.
-> 5) Once this ticket is resolved, delete that whole user account for security purposes
-> 
-> If you need more of a walkthrough on that, here's a screencast showing how to send us credentials: https://shortnit.com/creds
+> If you need more of a walk-through on that, here's a screencast showing how to send us credentials: https://shortnit.com/creds
+
 
 #### Removing Credentials and Customer Information
 In the course of troubleshooting issues where we have been given site access, several bits of less secure information can be created, including the credentials as well as copies of customer sites.
@@ -62,6 +65,13 @@ First, whenever creating a local clone of a site, we store all Duplicator/backup
 Second, whenever we resolve an issue for a customer who has given us credentials, we ask them to completely delete the user they created, for security. At that time, we also delete the local copy of the site.
 
 Finally, any Help Scout or Slack notes with credentials of any type should be deleted. 
+
+## Responding to Requests for Out-of-Scope features.
+
+When a user or customer asks for something \(a feature or enhancement\) that we don't support and likely will not support, it can be tricky to know how to respond without leading with negativity.
+Instead of directly answering with a negative "we don't do that" we take a step back and lead with what our product was designed to do, and context around why we don't support the functionality they are asking for.
+
+Aside from the benefit of leading with positives instead of negatives, this enables us to have a constructive touch-point with a customer that features a chance to educate them on how to use our products. 
 
 ## Help Scout Protocols
 In order to more objectively know that we are working toward resolution, we measure it based on several important metrics in Help Scout.
