@@ -24,6 +24,8 @@ SSTs, in addition to the duties and responsibility of STs, are responsible for s
 
 To clarify, SSTs also work the "front lines" of the ticket queue, alongside STs. The only additional expectations on the SST role is that they be more aware of how everyone's queue is looking, not just their own. They are ready to step in and take the load off of of STs and even the HoS as able.
 
+The SST also functions as a "queue wrangler" for not only their own Help Scout queue, but also for the queue of the entire team. This role of the SST is critical in making sure that everyone on the team is carrying an equitable load, and also helps the SST to proactively see whether STs are getting stuck on tickets in a way that the SST can help. Queue wrangling includes reassigning tickets from one ST to another, as well as stepping in to close tickets that are resolved, and ask for ratings and/or reviews as necessary.
+
 SSTs are available during their work day to help when STs need it, via Slack calls or chat.
 
 ## Head of Support
