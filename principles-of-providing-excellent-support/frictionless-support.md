@@ -36,15 +36,23 @@ If the original technician is out for the day at the time of the customer respon
 
 ## Escalating Tickets To Senior Support Technicians
 
-Another aspect of frictionless support is escalating tickets to Senior Support Technicians. The goal is to only respond to the customer with actionable, helpful, and constructive responses.
+Another aspect of frictionless support is escalating tickets to Senior Support Technicians (SSTs). The goal is to only respond to the customer with actionable, helpful, and constructive responses.
 
 To say "I am looping in a Senior support technician" to the customer adds friction, and should only be used as a [Queue Health Habit](../daily-routine/queue-health-habits.md) to get a response to the customer before logging off for the day. It would be far better to have a conversation with the Senior Support Technician and then respond with a fix for the issue.
 
+### Why We Write Escalation Notes
+
+{% hint style="success" %}
+It's easy to mistake an escalation note as a bad thing, as though we are waving a white flag and surrendering. Instead, the correct mindset for escalation is to view it the same way you view "Rubber Duck Debugging." 
+{% endhint %}
+
+When a developer gets stuck on a code issue, a popular way of debugging the issue is to speak out loud (traditionally to a physical Rubber Duck sitting on their desk) what the code is supposed to do, thereby using a different part of their brain (explaining vs writing). This practice often ends in solving the problem. 
+
+An escalation note to the SST is essentially asynchronous rubber duck debugging for support technicians, where the SST can be looped in if the rubber duck fails to solve the problem. By writing down in detail every step we took to solve the problem, we're creating a way for the SST to step in already "up to speed" and helpfully. 
+
 ### Mechanics of Escalation
 
-The point of escalating a ticket is to signal to a Senior Support Technician "I don't know what else to do to resolve this issue." For mechanics of _how_ to do certain tasks, [Slack calls](../communicating-as-a-team/using-slack.md) are a better choice.
-
-If a Support Technician finds themselves stuck on what else to do, we escalate the ticket via a note in Help Scout. The singular focus of that note is to bring the Senior Support Technician up to speed on the ticket without having to read through the entire thing. We use the canned response in Help Scout to answer most thoroughly.
+The point of escalating a ticket is to signal to the SST "I don't know what else to do to resolve this issue." For mechanics of _how_ to do certain tasks, [Slack calls](../communicating-as-a-team/using-slack.md) are a better choice.
 
 Once the ticket has been escalated, **we leave it assigned to the original technician** unless otherwise instructed. This allows for the technician to monitor whether the Senior Support Technician has gotten to it, and if they haven't, to either remind them or notify the customer before logging off for the day.
 
@@ -54,9 +62,10 @@ Here's our escalation note template:
 >
 > 1. Rate the Urgency {1 == not urgent, just need help; 2 == Some urgency from the customer, but I can do it with some help; 3 == Urgency from Customer and I don't know how to resolve this for them at all.}
 > 2. Quick Summary of the Problem {summarize the users problem succinctly}
-> 3. How Did I Verify the Problem? {Did you replicate it outside the user's site? \(provide steps\); Saw it on the user's site? \(provide steps\), Have additional info like screenshots? \(provide them in the Note\)}
-> 4. What I think Resolution Looks Like {describe what a Great Rating resolution for this ticket would look like}
-> 5. What is keeping me from Resolution {describe what is keeping you from getting that Great Rating resolution. If it's development, then focus on the product feedback, not escalating this ticket in Support}
+> 3. Here are the credentials to a staging site where I have replicated the problem:
+> 4. How Did I Verify the Problem? {Did you replicate it outside the user's site? \(provide steps\); Saw it on the user's site? \(provide steps\), Have additional info like screenshots? \(provide them in the Note\) THIS SECTION SHOULD BE AS DETAILED AS POSSIBLE}
+> 5. What I think Resolution Looks Like {describe what a Great Rating resolution for this ticket would look like}
+> 6. What is keeping me from Resolution {describe what is keeping you from getting that Great Rating resolution. If it's development, then focus on the product feedback, not escalating this ticket in Support}
 
 ### Angry Customers
 
